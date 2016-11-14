@@ -1,0 +1,74 @@
+MS-LAMP Linux Installer Guide
+
+Mass Spectrometry based Lipid(ome) Analyzer and Molecular Platform (MS-LAMP) is a novel standalone software capable of aiding in interpreting electrospray ionization (ESI) and/or matrix assisted laser desorption and ionization (MALDI) mass spectrometric data of lipids.
+MS-LAMP has been built on Perl::Tk and hence the user must install Tk module that can be done using the following command before MS-LAMP can be made to work.
+
+Command for installing Tk module from command prompt
+
+"sudo apt-get install Tk"
+
+This command will require authentication using administrative user password. 
+
+Alternatively the Tk module can also be installed via CPAN using the following command via CPAN.
+
+cpan> install Tk
+
+===============================================================================================================================================================================================================================
+
+Once the Tk module has been installed, for making MS-LAMP work, three modifications need to be done to each .pl file.
+
+1. Assigning the HOME directory.
+ 
+$HOME="/home/user/MS-LAMP";
+
+Provide the path for MS-LAMP within the double quotes. 
+Provide the complete path of location of MS-LAMP omitting the last '/' as examplified above.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Assigining the application for reading Pdf files.
+
+$PDFCOMMAND="evince"; 
+
+By default 'evince' Pdf reader has been assiged for reading the pdf files.
+In case, the user has some other Pdf reader installed, the user needs to provide the command for that software replacing 'evince'.
+In some cases the user may need to provide the complete path of the location of Pdf reader.
+It is to be remembered that the user accesing the pdf reader must be provided the necessary permissions.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. Assigning the application to view structure.
+
+$STRUCTURECOMMAND="pymol";
+
+pymol is software used to view mol sructure files. 
+By default 'pymol' has been assigned to view structure for General Lipidome MS-LAMP. 
+The user may choose to install pymol for viewing .mol structures or may install some other software such as JMOL.
+If software other than pymol is used then the user is required to provide the corresponding command in place of 'pymol'.
+
+For the case of M.tb Lipidome MS-LAMP 'shotwell' has been assigned as software for viewing structures saved as image files.
+In case, the user has some other picture manager, the user needs to provide the command for that software replacing 'shotwell'.
+
+====================================================================================================================================
+
+MS-LAMP can also generate xls files wherein the results are summarised using bar graphs and pie charts.
+For configuring MS-LAMP to generate xls files, Spreadsheet::WriteExcel module from cpan needs to be installed.
+For installing Spreadsheet::WriteExcel the following command may be used from the command prompt.
+
+With ActiveState Perl, you can use
+
+"ppm install Spreadsheet::WriteExcel"
+
+With Strawberry Perl, you can use
+
+"perl -MCPAN -e shell install Spreadsheet::WriteExcel"
+
+Once Spreadsheet::WriteExcel has been installed the user needs to activate xls button by doing the following.
+
+1.Open the .pl file
+2.Search for #xls
+3.delete #
+4. Save the changes.
+
+The pl file has been configured to generate xls output!!!
+
+
+

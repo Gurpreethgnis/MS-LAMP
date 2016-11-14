@@ -1,0 +1,2518 @@
+C17H34O4zz!”Glycerolipids (GL)”
+C18H34O4zz!”Glycerolipids (GL)”
+C18H36O4zz!”Glycerolipids (GL)”
+C19H36O4zz!”Glycerolipids (GL)”
+C19H38O4zz!”Glycerolipids (GL)”
+C20H38O4zz!”Glycerolipids (GL)”
+C20H40O4zz!”Glycerolipids (GL)”
+C21H40O4zz!”Glycerolipids (GL)”
+C21H42O4zz!”Glycerolipids (GL)”
+C24H48O2aa!”Fatty Acyls (FA)”
+C24H48O2ab!”Fatty Acyls (FA)”
+C22H44O4zz!”Glycerolipids (GL)”
+C25H48O2zz!”Fatty Acyls (FA)”
+C25H50O2aa!”Fatty Acyls (FA)”
+C25H50O2ab!”Fatty Acyls (FA)”
+C23H44O4zz!”Glycerolipids (GL)”
+C24H48O3zz!”Fatty Acyls (FA)”
+C23H46O4zz!”Glycerolipids (GL)”
+C26H52O2aa!”Fatty Acyls (FA)”
+C26H52O2ab!”Fatty Acyls (FA)”
+C24H48O4zz!”Glycerolipids (GL)”
+C27H52O2zz!”Fatty Acyls (FA)”
+C27H54O2zz!”Fatty Acyls (FA)”
+C25H48O4zz!”Glycerolipids (GL)”
+C26H52O3zz!”Fatty Acyls (FA)”
+C25H50O4zz!”Glycerolipids (GL)”
+C28H54O2zz!”Fatty Acyls (FA)”
+C28H56O2zz!”Fatty Acyls (FA)”
+C27H54O3zz!”Fatty Acyls (FA)”
+C29H56O2zz!”Fatty Acyls (FA)”
+C29H58O2zz!”Fatty Acyls (FA)”
+C28H56O3zz!”Fatty Acyls (FA)”
+C27H54O4zz!”Glycerolipids (GL)”
+C21H42N1O7P1zz!”Glycerophospholipids (GP)”
+C30H60O2zz!”Fatty Acyls (FA)”
+C21H44N1O7P1zz!”Glycerophospholipids (GP)”
+C22H44N1O7P1zz!”Glycerophospholipids (GP)”
+C31H62O2aa!”Fatty Acyls (FA)”
+C31H62O2ab!”Fatty Acyls (FA)”
+C22H46N1O7P1zz!”Glycerophospholipids (GP)”
+C21H41O9P1zz!”Glycerophospholipids (GP)”
+C29H58O4zz!”Glycerolipids (GL)”
+C23H46N1O7P1zz!”Glycerophospholipids (GP)”
+C32H64O2zz!”Fatty Acyls (FA)”
+C23H48N1O7P1zz!”Glycerophospholipids (GP)”
+C22H43O9P1zz!”Glycerophospholipids (GP)”
+C31H62O3zz!”Fatty Acyls (FA)”
+C22H45O9P1zz!”Glycerophospholipids (GP)”
+C30H60O4zz!”Glycerolipids (GL)”
+C24H48N1O7P1zz!”Glycerophospholipids (GP)”
+C33H66O2aa!”Fatty Acyls (FA)”
+C33H66O2ab!”Fatty Acyls (FA)”
+C24H50N1O7P1zz!”Glycerophospholipids (GP)”
+C23H45O9P1zz!”Glycerophospholipids (GP)”
+C23H47O9P1zz!”Glycerophospholipids (GP)”
+C34H68O2aa!”Fatty Acyls (FA)”
+C34H68O2ab!”Fatty Acyls (FA)”
+C25H52N1O7P1zz!”Glycerophospholipids (GP)”
+C24H47O9P1zz!”Glycerophospholipids (GP)”
+C33H66O3zz!”Fatty Acyls (FA)”
+C24H49O9P1zz!”Glycerophospholipids (GP)”
+C31H60O5zz!”Glycerolipids (GL)”
+C35H70O2zz!”Fatty Acyls (FA)”
+C25H49O9P1zz!”Glycerophospholipids (GP)”
+C32H60O5zz!”Glycerolipids (GL)”
+C34H68O3zz!”Fatty Acyls (FA)”
+C25H51O9P1zz!”Glycerophospholipids (GP)”
+C32H62O5zz!”Glycerolipids (GL)”
+C36H72O2zz!”Fatty Acyls (FA)”
+C33H62O5zz!”Glycerolipids (GL)”
+C26H53O9P1zz!”Glycerophospholipids (GP)”
+C33H64O5zz!”Glycerolipids (GL)”
+C34H62O5zz!”Glycerolipids (GL)”
+C37H74O2zz!”Fatty Acyls (FA)”
+C34H64O5zz!”Glycerolipids (GL)”
+C36H72O3zz!”Fatty Acyls (FA)”
+C34H66O5zz!”Glycerolipids (GL)”
+C35H64O5zz!”Glycerolipids (GL)”
+C35H66O5zz!”Glycerolipids (GL)”
+C37H74O3zz!”Fatty Acyls (FA)”
+C35H68O5zz!”Glycerolipids (GL)”
+C25H49O12P1zz!”Glycerophospholipids (GP)”
+C36H66O5zz!”Glycerolipids (GL)”
+C39H78O2zz!”Fatty Acyls (FA)”
+C36H68O5zz!”Glycerolipids (GL)”
+C36H70O5zz!”Glycerolipids (GL)”
+C26H51O12P1zz!”Glycerophospholipids (GP)”
+C37H68O5zz!”Glycerolipids (GL)”
+C40H80O2zz!”Fatty Acyls (FA)”
+C37H70O5zz!”Glycerolipids (GL)”
+C39H78O3zz!”Fatty Acyls (FA)”
+C27H49O12P1zz!”Glycerophospholipids (GP)”
+C37H72O5zz!”Glycerolipids (GL)”
+C27H51O12P1zz!”Glycerophospholipids (GP)”
+C27H53O12P1zz!”Glycerophospholipids (GP)”
+C38H70O5zz!”Glycerolipids (GL)”
+C38H72O5zz!”Glycerolipids (GL)”
+C40H80O3zz!”Fatty Acyls (FA)”
+C28H51O12P1zz!”Glycerophospholipids (GP)”
+C38H74O5zz!”Glycerolipids (GL)”
+C28H53O12P1zz!”Glycerophospholipids (GP)”
+C28H55O12P1zz!”Glycerophospholipids (GP)”
+C39H72O5zz!”Glycerolipids (GL)”
+C42H84O2zz!”Fatty Acyls (FA)”
+C39H74O5zz!”Glycerolipids (GL)”
+C39H76O5zz!”Glycerolipids (GL)”
+C40H74O5zz!”Glycerolipids (GL)”
+C43H86O2zz!”Fatty Acyls (FA)”
+C40H76O5zz!”Glycerolipids (GL)”
+C42H84O3zz!”Fatty Acyls (FA)”
+C40H78O5zz!”Glycerolipids (GL)”
+C41H76O5zz!”Glycerolipids (GL)”
+C41H78O5zz!”Glycerolipids (GL)”
+C43H86O3zz!”Fatty Acyls (FA)”
+C41H80O5zz!”Glycerolipids (GL)”
+C35H68N1O8P1zz!”Glycerophospholipids (GP)”
+C42H78O5zz!”Glycerolipids (GL)”
+C45H90O2zz!”Fatty Acyls (FA)”
+C35H70N1O8P1zz!”Glycerophospholipids (GP)”
+C42H80O5zz!”Glycerolipids (GL)”
+C42H82O5zz!”Glycerolipids (GL)”
+C36H70N1O8P1zz!”Glycerophospholipids (GP)”
+C43H80O5zz!”Glycerolipids (GL)”
+C46H92O2zz!”Fatty Acyls (FA)”
+C36H72N1O8P1zz!”Glycerophospholipids (GP)”
+C35H67O10P1zz!”Glycerophospholipids (GP)”
+C43H82O5zz!”Glycerolipids (GL)”
+C45H90O3zz!”Fatty Acyls (FA)”
+C36H73O9P1zz!”Polyketides (PK)”
+C43H84O5zz!”Glycerolipids (GL)”
+C37H70N1O8P1zz!”Glycerophospholipids (GP)”
+C37H72N1O8P1zz!”Glycerophospholipids (GP)”
+C36H67O10P1zz!”Glycerophospholipids (GP)”
+C44H82O5zz!”Glycerolipids (GL)”
+C37H74N1O8P1zz!”Glycerophospholipids (GP)”
+C36H69O10P1zz!”Glycerophospholipids (GP)”
+C44H84O5zz!”Glycerolipids (GL)”
+C46H92O3zz!”Fatty Acyls (FA)”
+C36H71O10P1zz!”Glycerophospholipids (GP)”
+C37H75O9P1zz!”Polyketides (PK)”
+C44H86O5zz!”Glycerolipids (GL)”
+C50H82O1zz!”Prenol Lipids (PR)”
+C38H72N1O8P1zz!”Glycerophospholipids (GP)”
+C38H74N1O8P1zz!”Glycerophospholipids (GP)”
+C37H69O10P1zz!”Glycerophospholipids (GP)”
+C45H84O5zz!”Glycerolipids (GL)”
+C48H96O2zz!”Fatty Acyls (FA)”
+C38H76N1O8P1zz!”Glycerophospholipids (GP)”
+C37H71O10P1zz!”Glycerophospholipids (GP)”
+C45H86O5zz!”Glycerolipids (GL)”
+C37H73O10P1zz!”Glycerophospholipids (GP)”
+C38H77O9P1zz!”Polyketides (PK)”
+C45H88O5zz!”Glycerolipids (GL)”
+C39H74N1O8P1zz!”Glycerophospholipids (GP)”
+C39H76N1O8P1zz!”Glycerophospholipids (GP)”
+C38H71O10P1zz!”Glycerophospholipids (GP)”
+C51H74O2zz!”Prenol Lipids (PR)”
+C39H78N1O8P1zz!”Glycerophospholipids (GP)”
+C38H73O10P1zz!”Glycerophospholipids (GP)”
+C46H88O5zz!”Glycerolipids (GL)”
+C48H96O3zz!”Fatty Acyls (FA)”
+C38H75O10P1zz!”Glycerophospholipids (GP)”
+C39H79O9P1zz!”Polyketides (PK)”
+C45H86O6zz!”Glycerolipids (GL)”
+C46H90O5zz!”Glycerolipids (GL)”
+C40H76N1O8P1zz!”Glycerophospholipids (GP)”
+C40H78N1O8P1zz!”Glycerophospholipids (GP)”
+C39H73O10P1zz!”Glycerophospholipids (GP)”
+C47H88O5zz!”Glycerolipids (GL)”
+C40H80N1O8P1zz!”Glycerophospholipids (GP)”
+C31H59O17P1zz!”Glycerophospholipids (GP)”
+C39H75O10P1zz!”Glycerophospholipids (GP)”
+C46H86O6zz!”Glycerolipids (GL)”
+C47H90O5zz!”Glycerolipids (GL)”
+C39H77O10P1zz!”Glycerophospholipids (GP)”
+C40H81O9P1zz!”Polyketides (PK)”
+C46H88O6zz!”Glycerolipids (GL)”
+C47H92O5zz!”Glycerolipids (GL)”
+C41H78N1O8P1zz!”Glycerophospholipids (GP)”
+C41H80N1O8P1zz!”Glycerophospholipids (GP)”
+C40H75O10P1zz!”Glycerophospholipids (GP)”
+C41H82N1O8P1zz!”Glycerophospholipids (GP)”
+C32H61O17P1zz!”Glycerophospholipids (GP)”
+C40H77O10P1zz!”Glycerophospholipids (GP)”
+C47H88O6zz!”Glycerolipids (GL)”
+C48H92O5zz!”Glycerolipids (GL)”
+C40H79O10P1zz!”Glycerophospholipids (GP)”
+C47H90O6zz!”Glycerolipids (GL)”
+C48H94O5zz!”Glycerolipids (GL)”
+C42H80N1O8P1zz!”Glycerophospholipids (GP)”
+C33H59O17P1zz!”Glycerophospholipids (GP)”
+C42H82N1O8P1zz!”Glycerophospholipids (GP)”
+C33H61O17P1zz!”Glycerophospholipids (GP)”
+C41H77O10P1zz!”Glycerophospholipids (GP)”
+C48H88O6zz!”Glycerolipids (GL)”
+C42H84N1O8P1zz!”Glycerophospholipids (GP)”
+C33H63O17P1zz!”Glycerophospholipids (GP)”
+C41H79O10P1zz!”Glycerophospholipids (GP)”
+C48H90O6zz!”Glycerolipids (GL)”
+C49H94O5zz!”Glycerolipids (GL)”
+C41H81O10P1zz!”Glycerophospholipids (GP)”
+C48H92O6zz!”Glycerolipids (GL)”
+C49H96O5zz!”Glycerolipids (GL)”
+C34H61O17P1zz!”Glycerophospholipids (GP)”
+C43H84N1O8P1zz!”Glycerophospholipids (GP)”
+C34H63O17P1zz!”Glycerophospholipids (GP)”
+C42H79O10P1zz!”Glycerophospholipids (GP)”
+C49H90O6zz!”Glycerolipids (GL)”
+C43H86N1O8P1zz!”Glycerophospholipids (GP)”
+C34H65O17P1zz!”Glycerophospholipids (GP)”
+C42H81O10P1zz!”Glycerophospholipids (GP)”
+C49H92O6zz!”Glycerolipids (GL)”
+C50H96O5zz!”Glycerolipids (GL)”
+C42H83O10P1zz!”Glycerophospholipids (GP)”
+C50H83O4P1zz!”Prenol Lipids (PR)”
+C49H94O6zz!”Glycerolipids (GL)”
+C50H98O5zz!”Glycerolipids (GL)”
+C39H75O13P1zz!”Glycerophospholipids (GP)”
+C56H80O2zz!”Prenol Lipids (PR)”
+C56H82O2zz!”Prenol Lipids (PR)”
+C50H90O6zz!”Glycerolipids (GL)”
+C44H86N1O8P1zz!”Glycerophospholipids (GP)”
+C43H81O10P1zz!”Glycerophospholipids (GP)”
+C50H92O6zz!”Glycerolipids (GL)”
+C44H88N1O8P1zz!”Glycerophospholipids (GP)”
+C43H83O10P1zz!”Glycerophospholipids (GP)”
+C50H94O6zz!”Glycerolipids (GL)”
+C51H98O5zz!”Glycerolipids (GL)”
+C43H85O10P1zz!”Glycerophospholipids (GP)”
+C50H96O6zz!”Glycerolipids (GL)”
+C51H100O5zz!”Glycerolipids (GL)”
+C40H77O13P1zz!”Glycerophospholipids (GP)”
+C51H92O6zz!”Glycerolipids (GL)”
+C51H94O6zz!”Glycerolipids (GL)”
+C45H90N1O8P1zz!”Glycerophospholipids (GP)”
+C44H85O10P1zz!”Glycerophospholipids (GP)”
+C51H96O6zz!”Glycerolipids (GL)”
+C52H100O5zz!”Glycerolipids (GL)”
+C41H75O13P1zz!”Glycerophospholipids (GP)”
+C44H87O10P1zz!”Glycerophospholipids (GP)”
+C51H98O6zz!”Glycerolipids (GL)”
+C52H102O5zz!”Glycerolipids (GL)”
+C41H77O13P1zz!”Glycerophospholipids (GP)”
+C41H79O13P1zz!”Glycerophospholipids (GP)”
+C52H94O6zz!”Glycerolipids (GL)”
+C52H96O6zz!”Glycerolipids (GL)”
+C45H87O10P1zz!”Glycerophospholipids (GP)”
+C52H98O6zz!”Glycerolipids (GL)”
+C42H77O13P1zz!”Glycerophospholipids (GP)”
+C45H89O10P1zz!”Glycerophospholipids (GP)”
+C52H100O6zz!”Glycerolipids (GL)”
+C53H104O5zz!”Glycerolipids (GL)”
+C42H79O13P1zz!”Glycerophospholipids (GP)”
+C42H81O13P1zz!”Glycerophospholipids (GP)”
+C44H69N5O10zz!”Polyketides (PK)”
+C53H96O6zz!”Glycerolipids (GL)”
+C44H71N5O10zz!”Polyketides (PK)”
+C43H75O13P1zz!”Glycerophospholipids (GP)”
+C53H98O6zz!”Glycerolipids (GL)”
+C43H77O13P1zz!”Glycerophospholipids (GP)”
+C53H100O6zz!”Glycerolipids (GL)”
+C43H79O13P1zz!”Glycerophospholipids (GP)”
+C46H91O10P1zz!”Glycerophospholipids (GP)”
+C53H102O6zz!”Glycerolipids (GL)”
+C54H106O5zz!”Glycerolipids (GL)”
+C43H81O13P1zz!”Glycerophospholipids (GP)”
+C43H83O13P1zz!”Glycerophospholipids (GP)”
+C45H71N5O10zz!”Polyketides (PK)”
+C54H98O6zz!”Glycerolipids (GL)”
+C45H73N5O10zz!”Polyketides (PK)”
+C44H77O13P1zz!”Glycerophospholipids (GP)”
+C54H100O6zz!”Glycerolipids (GL)”
+C44H79O13P1zz!”Glycerophospholipids (GP)”
+C47H91O10P1zz!”Glycerophospholipids (GP)”
+C54H102O6zz!”Glycerolipids (GL)”
+C44H81O13P1zz!”Glycerophospholipids (GP)”
+C54H104O6zz!”Glycerolipids (GL)”
+C55H108O5zz!”Glycerolipids (GL)”
+C44H83O13P1zz!”Glycerophospholipids (GP)”
+C44H85O13P1zz!”Glycerophospholipids (GP)”
+C46H73N5O10zz!”Polyketides (PK)”
+C55H100O6zz!”Glycerolipids (GL)”
+C46H75N5O10zz!”Polyketides (PK)”
+C50H84O7P2zz!”Prenol Lipids (PR)”
+C55H102O6zz!”Glycerolipids (GL)”
+C45H81O13P1zz!”Glycerophospholipids (GP)”
+C48H93O10P1zz!”Glycerophospholipids (GP)”
+C55H104O6zz!”Glycerolipids (GL)”
+C45H83O13P1zz!”Glycerophospholipids (GP)”
+C48H95O10P1zz!”Glycerophospholipids (GP)”
+C55H106O6zz!”Glycerolipids (GL)”
+C56H110O5zz!”Glycerolipids (GL)”
+C45H85O13P1zz!”Glycerophospholipids (GP)”
+C45H87O13P1zz!”Glycerophospholipids (GP)”
+C47H75N5O10zz!”Polyketides (PK)”
+C56H102O6zz!”Glycerolipids (GL)”
+C47H77N5O10zz!”Polyketides (PK)”
+C56H104O6zz!”Glycerolipids (GL)”
+C46H83O13P1zz!”Glycerophospholipids (GP)”
+C49H95O10P1zz!”Glycerophospholipids (GP)”
+C56H106O6zz!”Glycerolipids (GL)”
+C46H85O13P1zz!”Glycerophospholipids (GP)”
+C49H97O10P1zz!”Glycerophospholipids (GP)”
+C56H108O6zz!”Glycerolipids (GL)”
+C57H112O5zz!”Glycerolipids (GL)”
+C46H87O13P1zz!”Glycerophospholipids (GP)”
+C44H66Fe1N5O10zz!”Polyketides (PK)”
+C46H89O13P1zz!”Glycerophospholipids (GP)”
+C44H68Fe1N5O10zz!”Polyketides (PK)”
+C56H82O6S1zz!”Prenol Lipids (PR)”
+C57H104O6zz!”Glycerolipids (GL)”
+C57H106O6zz!”Glycerolipids (GL)”
+C50H97O10P1zz!”Glycerophospholipids (GP)”
+C57H108O6zz!”Glycerolipids (GL)”
+C50H99O10P1zz!”Glycerophospholipids (GP)”
+C57H110O6zz!”Glycerolipids (GL)”
+C45H68Fe1N5O10zz!”Polyketides (PK)”
+C37H69O22P1zz!”Glycerophospholipids (GP)”
+C45H70Fe1N5O10zz!”Polyketides (PK)”
+C58H106O6zz!”Glycerolipids (GL)”
+C58H108O6zz!”Glycerolipids (GL)”
+C51H99O10P1zz!”Glycerophospholipids (GP)”
+C58H110O6zz!”Glycerolipids (GL)”
+C51H101O10P1zz!”Glycerophospholipids (GP)”
+C58H112O6zz!”Glycerolipids (GL)”
+C46H70Fe1N5O10zz!”Polyketides (PK)”
+C38H71O22P1zz!”Glycerophospholipids (GP)”
+C46H72Fe1N5O10zz!”Polyketides (PK)”
+C59H108O6zz!”Glycerolipids (GL)”
+C59H110O6zz!”Glycerolipids (GL)”
+C59H112O6zz!”Glycerolipids (GL)”
+C52H103O10P1zz!”Glycerophospholipids (GP)”
+C59H114O6zz!”Glycerolipids (GL)”
+C39H69O22P1zz!”Glycerophospholipids (GP)”
+C39H71O22P1zz!”Glycerophospholipids (GP)”
+C47H72Fe1N5O10zz!”Polyketides (PK)”
+C39H73O22P1zz!”Glycerophospholipids (GP)”
+C47H74Fe1N5O10zz!”Polyketides (PK)”
+C60H110O6zz!”Glycerolipids (GL)”
+C60H112O6zz!”Glycerolipids (GL)”
+C52H98O13zz!”Saccharolipids (SL)”
+C60H114O6zz!”Glycerolipids (GL)”
+C60H116O6zz!”Glycerolipids (GL)”
+C40H71O22P1zz!”Glycerophospholipids (GP)”
+C40H73O22P1zz!”Glycerophospholipids (GP)”
+C40H75O22P1zz!”Glycerophospholipids (GP)”
+C61H112O6zz!”Glycerolipids (GL)”
+C61H114O6zz!”Glycerolipids (GL)”
+C45H85O18P1zz!”Glycerophospholipids (GP)”
+C53H100O13zz!”Saccharolipids (SL)”
+C61H116O6zz!”Glycerolipids (GL)”
+C52H98O14zz!”Saccharolipids (SL)”
+C61H118O6zz!”Glycerolipids (GL)”
+C62H114O6zz!”Glycerolipids (GL)”
+C62H116O6zz!”Glycerolipids (GL)”
+C46H87O18P1zz!”Glycerophospholipids (GP)”
+C54H102O13zz!”Saccharolipids (SL)”
+C62H118O6zz!”Glycerolipids (GL)”
+C62H120O6zz!”Glycerolipids (GL)”
+C47H85O18P1zz!”Glycerophospholipids (GP)”
+C63H116O6zz!”Glycerolipids (GL)”
+C47H87O18P1zz!”Glycerophospholipids (GP)”
+C63H118O6zz!”Glycerolipids (GL)”
+C47H89O18P1zz!”Glycerophospholipids (GP)”
+C55H104O13zz!”Saccharolipids (SL)”
+C63H120O6zz!”Glycerolipids (GL)”
+C54H102O14zz!”Saccharolipids (SL)”
+C63H122O6zz!”Glycerolipids (GL)”
+C48H87O18P1zz!”Glycerophospholipids (GP)”
+C64H118O6zz!”Glycerolipids (GL)”
+C48H89O18P1zz!”Glycerophospholipids (GP)”
+C64H120O6zz!”Glycerolipids (GL)”
+C48H91O18P1zz!”Glycerophospholipids (GP)”
+C56H106O13zz!”Saccharolipids (SL)”
+C64H122O6zz!”Glycerolipids (GL)”
+C55H104O14zz!”Saccharolipids (SL)”
+C64H124O6zz!”Glycerolipids (GL)”
+C49H85O18P1zz!”Glycerophospholipids (GP)”
+C49H87O18P1zz!”Glycerophospholipids (GP)”
+C49H89O18P1zz!”Glycerophospholipids (GP)”
+C65H120O6zz!”Glycerolipids (GL)”
+C49H91O18P1zz!”Glycerophospholipids (GP)”
+C65H122O6zz!”Glycerolipids (GL)”
+C49H93O18P1zz!”Glycerophospholipids (GP)”
+C57H108O13zz!”Saccharolipids (SL)”
+C65H124O6zz!”Glycerolipids (GL)”
+C56H106O14zz!”Saccharolipids (SL)”
+C65H126O6zz!”Glycerolipids (GL)”
+C50H87O18P1zz!”Glycerophospholipids (GP)”
+C50H89O18P1zz!”Glycerophospholipids (GP)”
+C50H91O18P1zz!”Glycerophospholipids (GP)”
+C66H122O6zz!”Glycerolipids (GL)”
+C50H93O18P1zz!”Glycerophospholipids (GP)”
+C66H124O6zz!”Glycerolipids (GL)”
+C50H95O18P1zz!”Glycerophospholipids (GP)”
+C66H126O6zz!”Glycerolipids (GL)”
+C57H108O14zz!”Saccharolipids (SL)”
+C66H128O6zz!”Glycerolipids (GL)”
+C51H91O18P1zz!”Glycerophospholipids (GP)”
+C51H93O18P1zz!”Glycerophospholipids (GP)”
+C67H124O6zz!”Glycerolipids (GL)”
+C51H95O18P1zz!”Glycerophospholipids (GP)”
+C67H126O6zz!”Glycerolipids (GL)”
+C51H97O18P1zz!”Glycerophospholipids (GP)”
+C67H128O6zz!”Glycerolipids (GL)”
+C58H110O14zz!”Saccharolipids (SL)”
+C67H130O6zz!”Glycerolipids (GL)”
+C52H93O18P1zz!”Glycerophospholipids (GP)”
+C52H95O18P1zz!”Glycerophospholipids (GP)”
+C68H126O6zz!”Glycerolipids (GL)”
+C52H97O18P1zz!”Glycerophospholipids (GP)”
+C53H100O17S1zz!”Saccharolipids (SL)”
+C68H128O6zz!”Glycerolipids (GL)”
+C52H99O18P1zz!”Glycerophospholipids (GP)”
+C68H130O6zz!”Glycerolipids (GL)”
+C59H112O14zz!”Saccharolipids (SL)”
+C68H132O6zz!”Glycerolipids (GL)”
+C69H128O6zz!”Glycerolipids (GL)”
+C69H130O6zz!”Glycerolipids (GL)”
+C69H132O6zz!”Glycerolipids (GL)”
+C43H79O27P1zz!”Glycerophospholipids (GP)”
+C69H134O6zz!”Glycerolipids (GL)”
+C70H130O6zz!”Glycerolipids (GL)”
+C55H104O17S1zz!”Saccharolipids (SL)”
+C70H132O6zz!”Glycerolipids (GL)”
+C70H134O6zz!”Glycerolipids (GL)”
+C44H81O27P1zz!”Glycerophospholipids (GP)”
+C70H136O6zz!”Glycerolipids (GL)”
+C71H132O6zz!”Glycerolipids (GL)”
+C74H144O3zz!”Fatty Acyls (FA)”
+C45H79O27P1zz!”Glycerophospholipids (GP)”
+C56H106O17S1zz!”Saccharolipids (SL)”
+C71H134O6zz!”Glycerolipids (GL)”
+C45H81O27P1zz!”Glycerophospholipids (GP)”
+C71H136O6zz!”Glycerolipids (GL)”
+C45H83O27P1zz!”Glycerophospholipids (GP)”
+C71H138O6zz!”Glycerolipids (GL)”
+C75H146O3zz!”Fatty Acyls (FA)”
+C46H81O27P1zz!”Glycerophospholipids (GP)”
+C57H108O17S1zz!”Saccharolipids (SL)”
+C72H136O6zz!”Glycerolipids (GL)”
+C74H144O4zz!”Fatty Acyls (FA)”
+C46H83O27P1zz!”Glycerophospholipids (GP)”
+C72H138O6zz!”Glycerolipids (GL)”
+C74H146O4zz!”Fatty Acyls (FA)”
+C46H85O27P1zz!”Glycerophospholipids (GP)”
+C72H140O6zz!”Glycerolipids (GL)”
+C51H95O23P1zz!”Glycerophospholipids (GP)”
+C73H136O6zz!”Glycerolipids (GL)”
+C76H148O3zz!”Fatty Acyls (FA)”
+C58H110O17S1zz!”Saccharolipids (SL)”
+C73H138O6zz!”Glycerolipids (GL)”
+C75H146O4zz!”Fatty Acyls (FA)”
+C73H140O6zz!”Glycerolipids (GL)”
+C75H148O4zz!”Fatty Acyls (FA)”
+C73H142O6zz!”Glycerolipids (GL)”
+C52H97O23P1zz!”Glycerophospholipids (GP)”
+C77H150O3zz!”Fatty Acyls (FA)”
+C59H112O17S1zz!”Saccharolipids (SL)”
+C74H140O6zz!”Glycerolipids (GL)”
+C76H148O4zz!”Fatty Acyls (FA)”
+C74H142O6zz!”Glycerolipids (GL)”
+C76H150O4zz!”Fatty Acyls (FA)”
+C74H144O6zz!”Glycerolipids (GL)”
+C53H95O23P1zz!”Glycerophospholipids (GP)”
+C53H97O23P1zz!”Glycerophospholipids (GP)”
+C53H99O23P1zz!”Glycerophospholipids (GP)”
+C78H152O3zz!”Fatty Acyls (FA)”
+C60H114O17S1zz!”Saccharolipids (SL)”
+C75H142O6zz!”Glycerolipids (GL)”
+C77H150O4zz!”Fatty Acyls (FA)”
+C75H144O6zz!”Glycerolipids (GL)”
+C77H152O4zz!”Fatty Acyls (FA)”
+C75H146O6zz!”Glycerolipids (GL)”
+C54H97O23P1zz!”Glycerophospholipids (GP)”
+C54H99O23P1zz!”Glycerophospholipids (GP)”
+C54H101O23P1zz!”Glycerophospholipids (GP)”
+C79H154O3zz!”Fatty Acyls (FA)”
+C61H116O17S1zz!”Saccharolipids (SL)”
+C76H144O6zz!”Glycerolipids (GL)”
+C78H152O4zz!”Fatty Acyls (FA)”
+C55H95O23P1zz!”Glycerophospholipids (GP)”
+C59H111O19P1zz!”Glycerophospholipids (GP)”
+C76H146O6zz!”Glycerolipids (GL)”
+C78H154O4zz!”Fatty Acyls (FA)”
+C55H97O23P1zz!”Glycerophospholipids (GP)”
+C76H148O6zz!”Glycerolipids (GL)”
+C55H99O23P1zz!”Glycerophospholipids (GP)”
+C55H101O23P1zz!”Glycerophospholipids (GP)”
+C55H103O23P1zz!”Glycerophospholipids (GP)”
+C80H156O3zz!”Fatty Acyls (FA)”
+C62H118O17S1zz!”Saccharolipids (SL)”
+C77H146O6zz!”Glycerolipids (GL)”
+C79H154O4zz!”Fatty Acyls (FA)”
+C56H97O23P1zz!”Glycerophospholipids (GP)”
+C60H113O19P1zz!”Glycerophospholipids (GP)”
+C77H148O6zz!”Glycerolipids (GL)”
+C79H156O4zz!”Fatty Acyls (FA)”
+C56H99O23P1zz!”Glycerophospholipids (GP)”
+C77H150O6zz!”Glycerolipids (GL)”
+C56H101O23P1zz!”Glycerophospholipids (GP)”
+C56H103O23P1zz!”Glycerophospholipids (GP)”
+C56H105O23P1zz!”Glycerophospholipids (GP)”
+C61H111O19P1zz!”Glycerophospholipids (GP)”
+C81H158O3zz!”Fatty Acyls (FA)”
+C61H113O19P1zz!”Glycerophospholipids (GP)”
+C63H120O17S1zz!”Saccharolipids (SL)”
+C78H148O6zz!”Glycerolipids (GL)”
+C80H156O4zz!”Fatty Acyls (FA)”
+C61H115O19P1zz!”Glycerophospholipids (GP)”
+C78H150O6zz!”Glycerolipids (GL)”
+C80H158O4zz!”Fatty Acyls (FA)”
+C57H101O23P1zz!”Glycerophospholipids (GP)”
+C78H152O6zz!”Glycerolipids (GL)”
+C57H103O23P1zz!”Glycerophospholipids (GP)”
+C57H105O23P1zz!”Glycerophospholipids (GP)”
+C57H107O23P1zz!”Glycerophospholipids (GP)”
+C62H113O19P1zz!”Glycerophospholipids (GP)”
+C82H160O3zz!”Fatty Acyls (FA)”
+C62H115O19P1zz!”Glycerophospholipids (GP)”
+C64H122O17S1zz!”Saccharolipids (SL)”
+C79H150O6zz!”Glycerolipids (GL)”
+C81H158O4zz!”Fatty Acyls (FA)”
+C62H117O19P1zz!”Glycerophospholipids (GP)”
+C79H152O6zz!”Glycerolipids (GL)”
+C80H156O5zz!”Fatty Acyls (FA)”
+C81H160O4zz!”Fatty Acyls (FA)”
+C58H103O23P1zz!”Glycerophospholipids (GP)”
+C79H154O6zz!”Glycerolipids (GL)”
+C58H105O23P1zz!”Glycerophospholipids (GP)”
+C58H107O23P1zz!”Glycerophospholipids (GP)”
+C63H111O19P1zz!”Glycerophospholipids (GP)”
+C58H109O23P1zz!”Glycerophospholipids (GP)”
+C63H113O19P1zz!”Glycerophospholipids (GP)”
+C63H115O19P1zz!”Glycerophospholipids (GP)”
+C83H162O3zz!”Fatty Acyls (FA)”
+C63H117O19P1zz!”Glycerophospholipids (GP)”
+C65H124O17S1zz!”Saccharolipids (SL)”
+C82H160O4zz!”Fatty Acyls (FA)”
+C63H119O19P1zz!”Glycerophospholipids (GP)”
+C80H154O6zz!”Glycerolipids (GL)”
+C81H158O5zz!”Fatty Acyls (FA)”
+C82H162O4zz!”Fatty Acyls (FA)”
+C80H156O6zz!”Glycerolipids (GL)”
+C81H160O5zz!”Fatty Acyls (FA)”
+C64H113O19P1zz!”Glycerophospholipids (GP)”
+C64H115O19P1zz!”Glycerophospholipids (GP)”
+C49H89O32P1zz!”Glycerophospholipids (GP)”
+C64H117O19P1zz!”Glycerophospholipids (GP)”
+C84H164O3zz!”Fatty Acyls (FA)”
+C64H119O19P1zz!”Glycerophospholipids (GP)”
+C66H126O17S1zz!”Saccharolipids (SL)”
+C83H162O4zz!”Fatty Acyls (FA)”
+C64H121O19P1zz!”Glycerophospholipids (GP)”
+C81H156O6zz!”Glycerolipids (GL)”
+C82H160O5zz!”Fatty Acyls (FA)”
+C83H164O4zz!”Fatty Acyls (FA)”
+C81H158O6zz!”Glycerolipids (GL)”
+C82H162O5zz!”Fatty Acyls (FA)”
+C65H113O19P1zz!”Glycerophospholipids (GP)”
+C65H115O19P1zz!”Glycerophospholipids (GP)”
+C65H117O19P1zz!”Glycerophospholipids (GP)”
+C50H91O32P1zz!”Glycerophospholipids (GP)”
+C65H119O19P1zz!”Glycerophospholipids (GP)”
+C85H166O3zz!”Fatty Acyls (FA)”
+C65H121O19P1zz!”Glycerophospholipids (GP)”
+C67H128O17S1zz!”Saccharolipids (SL)”
+C84H164O4zz!”Fatty Acyls (FA)”
+C65H123O19P1zz!”Glycerophospholipids (GP)”
+C82H158O6zz!”Glycerolipids (GL)”
+C83H162O5zz!”Fatty Acyls (FA)”
+C84H166O4zz!”Fatty Acyls (FA)”
+C82H160O6zz!”Glycerolipids (GL)”
+C83H164O5zz!”Fatty Acyls (FA)”
+C66H115O19P1zz!”Glycerophospholipids (GP)”
+C80H154O8zz!”Fatty Acyls (FA)”
+C51H89O32P1zz!”Glycerophospholipids (GP)”
+C66H117O19P1zz!”Glycerophospholipids (GP)”
+C80H156O8zz!”Fatty Acyls (FA)”
+C51H91O32P1zz!”Glycerophospholipids (GP)”
+C66H119O19P1zz!”Glycerophospholipids (GP)”
+C51H93O32P1zz!”Glycerophospholipids (GP)”
+C66H121O19P1zz!”Glycerophospholipids (GP)”
+C86H168O3zz!”Fatty Acyls (FA)”
+C66H123O19P1zz!”Glycerophospholipids (GP)”
+C68H130O17S1zz!”Saccharolipids (SL)”
+C85H166O4zz!”Fatty Acyls (FA)”
+C66H125O19P1zz!”Glycerophospholipids (GP)”
+C83H160O6zz!”Glycerolipids (GL)”
+C84H164O5zz!”Fatty Acyls (FA)”
+C85H168O4zz!”Fatty Acyls (FA)”
+C83H162O6zz!”Glycerolipids (GL)”
+C84H166O5zz!”Fatty Acyls (FA)”
+C67H117O19P1zz!”Glycerophospholipids (GP)”
+C81H156O8zz!”Fatty Acyls (FA)”
+C52H91O32P1zz!”Glycerophospholipids (GP)”
+C67H119O19P1zz!”Glycerophospholipids (GP)”
+C80H154O9zz!”Fatty Acyls (FA)”
+C81H158O8zz!”Fatty Acyls (FA)”
+C52H93O32P1zz!”Glycerophospholipids (GP)”
+C67H121O19P1zz!”Glycerophospholipids (GP)”
+C80H156O9zz!”Fatty Acyls (FA)”
+C52H95O32P1zz!”Glycerophospholipids (GP)”
+C67H123O19P1zz!”Glycerophospholipids (GP)”
+C87H170O3zz!”Fatty Acyls (FA)”
+C67H126O17P2zz!”Glycerophospholipids (GP)”
+C67H125O19P1zz!”Glycerophospholipids (GP)”
+C69H132O17S1zz!”Saccharolipids (SL)”
+C86H168O4zz!”Fatty Acyls (FA)”
+C67H127O19P1zz!”Glycerophospholipids (GP)”
+C84H162O6zz!”Glycerolipids (GL)”
+C85H166O5zz!”Fatty Acyls (FA)”
+C86H170O4zz!”Fatty Acyls (FA)”
+C57H105O28P1zz!”Glycerophospholipids (GP)”
+C84H164O6zz!”Glycerolipids (GL)”
+C85H168O5zz!”Fatty Acyls (FA)”
+C68H119O19P1zz!”Glycerophospholipids (GP)”
+C82H158O8zz!”Fatty Acyls (FA)”
+C68H121O19P1zz!”Glycerophospholipids (GP)”
+C81H156O9zz!”Fatty Acyls (FA)”
+C82H160O8zz!”Fatty Acyls (FA)”
+C68H123O19P1zz!”Glycerophospholipids (GP)”
+C81H158O9zz!”Fatty Acyls (FA)”
+C68H126O17P2zz!”Glycerophospholipids (GP)”
+C68H125O19P1zz!”Glycerophospholipids (GP)”
+C88H172O3zz!”Fatty Acyls (FA)”
+C68H128O17P2zz!”Glycerophospholipids (GP)”
+C68H127O19P1zz!”Glycerophospholipids (GP)”
+C70H134O17S1zz!”Saccharolipids (SL)”
+C87H170O4zz!”Fatty Acyls (FA)”
+C68H130O17P2zz!”Glycerophospholipids (GP)”
+C68H129O19P1zz!”Glycerophospholipids (GP)”
+C86H168O5zz!”Fatty Acyls (FA)”
+C87H172O4zz!”Fatty Acyls (FA)”
+C58H107O28P1zz!”Glycerophospholipids (GP)”
+C85H166O6zz!”Glycerolipids (GL)”
+C86H170O5zz!”Fatty Acyls (FA)”
+C69H121O19P1zz!”Glycerophospholipids (GP)”
+C83H160O8zz!”Fatty Acyls (FA)”
+C69H123O19P1zz!”Glycerophospholipids (GP)”
+C82H158O9zz!”Fatty Acyls (FA)”
+C83H162O8zz!”Fatty Acyls (FA)”
+C69H126O17P2zz!”Glycerophospholipids (GP)”
+C69H125O19P1zz!”Glycerophospholipids (GP)”
+C82H160O9zz!”Fatty Acyls (FA)”
+C69H128O17P2zz!”Glycerophospholipids (GP)”
+C69H127O19P1zz!”Glycerophospholipids (GP)”
+C89H174O3zz!”Fatty Acyls (FA)”
+C59H105O28P1zz!”Glycerophospholipids (GP)”
+C69H130O17P2zz!”Glycerophospholipids (GP)”
+C69H129O19P1zz!”Glycerophospholipids (GP)”
+C71H136O17S1zz!”Saccharolipids (SL)”
+C88H172O4zz!”Fatty Acyls (FA)”
+C59H107O28P1zz!”Glycerophospholipids (GP)”
+C69H132O17P2zz!”Glycerophospholipids (GP)”
+C69H131O19P1zz!”Glycerophospholipids (GP)”
+C87H170O5zz!”Fatty Acyls (FA)”
+C88H174O4zz!”Fatty Acyls (FA)”
+C59H109O28P1zz!”Glycerophospholipids (GP)”
+C69H134O17P2zz!”Glycerophospholipids (GP)”
+C86H168O6zz!”Glycerolipids (GL)”
+C87H172O5zz!”Fatty Acyls (FA)”
+C70H123O19P1zz!”Glycerophospholipids (GP)”
+C84H162O8zz!”Fatty Acyls (FA)”
+C70H125O19P1zz!”Glycerophospholipids (GP)”
+C83H160O9zz!”Fatty Acyls (FA)”
+C84H164O8zz!”Fatty Acyls (FA)”
+C70H128O17P2zz!”Glycerophospholipids (GP)”
+C70H127O19P1zz!”Glycerophospholipids (GP)”
+C83H162O9zz!”Fatty Acyls (FA)”
+C70H130O17P2zz!”Glycerophospholipids (GP)”
+C70H129O19P1zz!”Glycerophospholipids (GP)”
+C90H176O3zz!”Fatty Acyls (FA)”
+C60H107O28P1zz!”Glycerophospholipids (GP)”
+C70H132O17P2zz!”Glycerophospholipids (GP)”
+C70H131O19P1zz!”Glycerophospholipids (GP)”
+C72H138O17S1zz!”Saccharolipids (SL)”
+C89H174O4zz!”Fatty Acyls (FA)”
+C60H109O28P1zz!”Glycerophospholipids (GP)”
+C70H134O17P2zz!”Glycerophospholipids (GP)”
+C70H133O19P1zz!”Glycerophospholipids (GP)”
+C88H172O5zz!”Fatty Acyls (FA)”
+C89H176O4zz!”Fatty Acyls (FA)”
+C60H111O28P1zz!”Glycerophospholipids (GP)”
+C70H136O17P2zz!”Glycerophospholipids (GP)”
+C87H170O6zz!”Glycerolipids (GL)”
+C88H174O5zz!”Fatty Acyls (FA)”
+C85H164O8zz!”Fatty Acyls (FA)”
+C71H127O19P1zz!”Glycerophospholipids (GP)”
+C84H162O9zz!”Fatty Acyls (FA)”
+C85H166O8zz!”Fatty Acyls (FA)”
+C61H105O28P1zz!”Glycerophospholipids (GP)”
+C65H121O24P1zz!”Glycerophospholipids (GP)”
+C71H130O17P2zz!”Glycerophospholipids (GP)”
+C71H129O19P1zz!”Glycerophospholipids (GP)”
+C84H164O9zz!”Fatty Acyls (FA)”
+C61H107O28P1zz!”Glycerophospholipids (GP)”
+C71H132O17P2zz!”Glycerophospholipids (GP)”
+C71H131O19P1zz!”Glycerophospholipids (GP)”
+C91H178O3zz!”Fatty Acyls (FA)”
+C61H109O28P1zz!”Glycerophospholipids (GP)”
+C71H134O17P2zz!”Glycerophospholipids (GP)”
+C71H133O19P1zz!”Glycerophospholipids (GP)”
+C73H140O17S1zz!”Saccharolipids (SL)”
+C90H176O4zz!”Fatty Acyls (FA)”
+C61H111O28P1zz!”Glycerophospholipids (GP)”
+C71H136O17P2zz!”Glycerophospholipids (GP)”
+C71H135O19P1zz!”Glycerophospholipids (GP)”
+C89H174O5zz!”Fatty Acyls (FA)”
+C90H178O4zz!”Fatty Acyls (FA)”
+C61H113O28P1zz!”Glycerophospholipids (GP)”
+C71H138O17P2zz!”Glycerophospholipids (GP)”
+C88H172O6zz!”Glycerolipids (GL)”
+C89H176O5zz!”Fatty Acyls (FA)”
+C86H166O8zz!”Fatty Acyls (FA)”
+C72H129O19P1zz!”Glycerophospholipids (GP)”
+C85H164O9zz!”Fatty Acyls (FA)”
+C86H168O8zz!”Fatty Acyls (FA)”
+C62H107O28P1zz!”Glycerophospholipids (GP)”
+C66H123O24P1zz!”Glycerophospholipids (GP)”
+C72H132O17P2zz!”Glycerophospholipids (GP)”
+C72H131O19P1zz!”Glycerophospholipids (GP)”
+C85H166O9zz!”Fatty Acyls (FA)”
+C62H109O28P1zz!”Glycerophospholipids (GP)”
+C72H134O17P2zz!”Glycerophospholipids (GP)”
+C72H133O19P1zz!”Glycerophospholipids (GP)”
+C92H180O3zz!”Fatty Acyls (FA)”
+C62H111O28P1zz!”Glycerophospholipids (GP)”
+C72H136O17P2zz!”Glycerophospholipids (GP)”
+C72H135O19P1zz!”Glycerophospholipids (GP)”
+C74H142O17S1zz!”Saccharolipids (SL)”
+C91H178O4zz!”Fatty Acyls (FA)”
+C62H113O28P1zz!”Glycerophospholipids (GP)”
+C72H138O17P2zz!”Glycerophospholipids (GP)”
+C90H176O5zz!”Fatty Acyls (FA)”
+C91H180O4zz!”Fatty Acyls (FA)”
+C62H115O28P1zz!”Glycerophospholipids (GP)”
+C72H140O17P2zz!”Glycerophospholipids (GP)”
+C89H174O6zz!”Glycerolipids (GL)”
+C90H178O5zz!”Fatty Acyls (FA)”
+C67H121O24P1zz!”Glycerophospholipids (GP)”
+C87H168O8zz!”Fatty Acyls (FA)”
+C67H123O24P1zz!”Glycerophospholipids (GP)”
+C86H166O9zz!”Fatty Acyls (FA)”
+C87H170O8zz!”Fatty Acyls (FA)”
+C67H125O24P1zz!”Glycerophospholipids (GP)”
+C73H134O17P2zz!”Glycerophospholipids (GP)”
+C86H168O9zz!”Fatty Acyls (FA)”
+C63H111O28P1zz!”Glycerophospholipids (GP)”
+C73H136O17P2zz!”Glycerophospholipids (GP)”
+C93H182O3zz!”Fatty Acyls (FA)”
+C63H113O28P1zz!”Glycerophospholipids (GP)”
+C73H138O17P2zz!”Glycerophospholipids (GP)”
+C75H144O17S1zz!”Saccharolipids (SL)”
+C92H180O4zz!”Fatty Acyls (FA)”
+C63H115O28P1zz!”Glycerophospholipids (GP)”
+C73H140O17P2zz!”Glycerophospholipids (GP)”
+C91H178O5zz!”Fatty Acyls (FA)”
+C92H182O4zz!”Fatty Acyls (FA)”
+C63H117O28P1zz!”Glycerophospholipids (GP)”
+C73H142O17P2zz!”Glycerophospholipids (GP)”
+C91H180O5zz!”Fatty Acyls (FA)”
+C68H123O24P1zz!”Glycerophospholipids (GP)”
+C88H170O8zz!”Fatty Acyls (FA)”
+C68H125O24P1zz!”Glycerophospholipids (GP)”
+C87H168O9zz!”Fatty Acyls (FA)”
+C88H172O8zz!”Fatty Acyls (FA)”
+C68H127O24P1zz!”Glycerophospholipids (GP)”
+C74H136O17P2zz!”Glycerophospholipids (GP)”
+C87H170O9zz!”Fatty Acyls (FA)”
+C64H113O28P1zz!”Glycerophospholipids (GP)”
+C74H138O17P2zz!”Glycerophospholipids (GP)”
+C94H184O3zz!”Fatty Acyls (FA)”
+C64H115O28P1zz!”Glycerophospholipids (GP)”
+C74H140O17P2zz!”Glycerophospholipids (GP)”
+C76H146O17S1zz!”Saccharolipids (SL)”
+C93H182O4zz!”Fatty Acyls (FA)”
+C64H117O28P1zz!”Glycerophospholipids (GP)”
+C69H121O24P1zz!”Glycerophospholipids (GP)”
+C74H142O17P2zz!”Glycerophospholipids (GP)”
+C92H180O5zz!”Fatty Acyls (FA)”
+C93H184O4zz!”Fatty Acyls (FA)”
+C64H119O28P1zz!”Glycerophospholipids (GP)”
+C69H123O24P1zz!”Glycerophospholipids (GP)”
+C74H144O17P2zz!”Glycerophospholipids (GP)”
+C92H182O5zz!”Fatty Acyls (FA)”
+C69H125O24P1zz!”Glycerophospholipids (GP)”
+C89H172O8zz!”Fatty Acyls (FA)”
+C69H127O24P1zz!”Glycerophospholipids (GP)”
+C88H170O9zz!”Fatty Acyls (FA)”
+C89H174O8zz!”Fatty Acyls (FA)”
+C69H129O24P1zz!”Glycerophospholipids (GP)”
+C75H138O17P2zz!”Glycerophospholipids (GP)”
+C88H172O9zz!”Fatty Acyls (FA)”
+C75H140O17P2zz!”Glycerophospholipids (GP)”
+C75H142O17P2zz!”Glycerophospholipids (GP)”
+C94H184O4zz!”Fatty Acyls (FA)”
+C70H123O24P1zz!”Glycerophospholipids (GP)”
+C75H144O17P2zz!”Glycerophospholipids (GP)”
+C93H182O5zz!”Fatty Acyls (FA)”
+C94H186O4zz!”Fatty Acyls (FA)”
+C70H125O24P1zz!”Glycerophospholipids (GP)”
+C75H146O17P2zz!”Glycerophospholipids (GP)”
+C93H184O5zz!”Fatty Acyls (FA)”
+C55H99O37P1zz!”Glycerophospholipids (GP)”
+C70H127O24P1zz!”Glycerophospholipids (GP)”
+C90H174O8zz!”Fatty Acyls (FA)”
+C70H129O24P1zz!”Glycerophospholipids (GP)”
+C89H172O9zz!”Fatty Acyls (FA)”
+C90H176O8zz!”Fatty Acyls (FA)”
+C70H131O24P1zz!”Glycerophospholipids (GP)”
+C76H140O17P2zz!”Glycerophospholipids (GP)”
+C89H174O9zz!”Fatty Acyls (FA)”
+C76H142O17P2zz!”Glycerophospholipids (GP)”
+C71H123O24P1zz!”Glycerophospholipids (GP)”
+C76H144O17P2zz!”Glycerophospholipids (GP)”
+C78H150O17S1zz!”Saccharolipids (SL)”
+C71H125O24P1zz!”Glycerophospholipids (GP)”
+C76H146O17P2zz!”Glycerophospholipids (GP)”
+C94H184O5zz!”Fatty Acyls (FA)”
+C71H127O24P1zz!”Glycerophospholipids (GP)”
+C76H148O17P2zz!”Glycerophospholipids (GP)”
+C94H186O5zz!”Fatty Acyls (FA)”
+C56H101O37P1zz!”Glycerophospholipids (GP)”
+C71H129O24P1zz!”Glycerophospholipids (GP)”
+C91H176O8zz!”Fatty Acyls (FA)”
+C71H131O24P1zz!”Glycerophospholipids (GP)”
+C90H174O9zz!”Fatty Acyls (FA)”
+C91H178O8zz!”Fatty Acyls (FA)”
+C71H133O24P1zz!”Glycerophospholipids (GP)”
+C77H142O17P2zz!”Glycerophospholipids (GP)”
+C90H176O9zz!”Fatty Acyls (FA)”
+C77H144O17P2zz!”Glycerophospholipids (GP)”
+C72H125O24P1zz!”Glycerophospholipids (GP)”
+C77H146O17P2zz!”Glycerophospholipids (GP)”
+C86H164O13zz!”Fatty Acyls (FA)”
+C57H99O37P1zz!”Glycerophospholipids (GP)”
+C72H127O24P1zz!”Glycerophospholipids (GP)”
+C77H148O17P2zz!”Glycerophospholipids (GP)”
+C86H166O13zz!”Fatty Acyls (FA)”
+C95H186O5zz!”Fatty Acyls (FA)”
+C57H101O37P1zz!”Glycerophospholipids (GP)”
+C72H129O24P1zz!”Glycerophospholipids (GP)”
+C77H150O17P2zz!”Glycerophospholipids (GP)”
+C95H188O5zz!”Fatty Acyls (FA)”
+C57H103O37P1zz!”Glycerophospholipids (GP)”
+C72H131O24P1zz!”Glycerophospholipids (GP)”
+C92H178O8zz!”Fatty Acyls (FA)”
+C72H133O24P1zz!”Glycerophospholipids (GP)”
+C91H176O9zz!”Fatty Acyls (FA)”
+C92H180O8zz!”Fatty Acyls (FA)”
+C72H135O24P1zz!”Glycerophospholipids (GP)”
+C78H144O17P2zz!”Glycerophospholipids (GP)”
+C91H178O9zz!”Fatty Acyls (FA)”
+C78H146O17P2zz!”Glycerophospholipids (GP)”
+C73H127O24P1zz!”Glycerophospholipids (GP)”
+C78H148O17P2zz!”Glycerophospholipids (GP)”
+C87H166O13zz!”Fatty Acyls (FA)”
+C58H101O37P1zz!”Glycerophospholipids (GP)”
+C73H129O24P1zz!”Glycerophospholipids (GP)”
+C78H150O17P2zz!”Glycerophospholipids (GP)”
+C86H164O14zz!”Fatty Acyls (FA)”
+C87H168O13zz!”Fatty Acyls (FA)”
+C96H188O5zz!”Fatty Acyls (FA)”
+C58H103O37P1zz!”Glycerophospholipids (GP)”
+C73H131O24P1zz!”Glycerophospholipids (GP)”
+C78H152O17P2zz!”Glycerophospholipids (GP)”
+C86H166O14zz!”Fatty Acyls (FA)”
+C96H190O5zz!”Fatty Acyls (FA)”
+C58H105O37P1zz!”Glycerophospholipids (GP)”
+C73H133O24P1zz!”Glycerophospholipids (GP)”
+C93H180O8zz!”Fatty Acyls (FA)”
+C73H135O24P1zz!”Glycerophospholipids (GP)”
+C92H178O9zz!”Fatty Acyls (FA)”
+C93H182O8zz!”Fatty Acyls (FA)”
+C73H137O24P1zz!”Glycerophospholipids (GP)”
+C79H146O17P2zz!”Glycerophospholipids (GP)”
+C92H180O9zz!”Fatty Acyls (FA)”
+C63H115O33P1zz!”Glycerophospholipids (GP)”
+C79H148O17P2zz!”Glycerophospholipids (GP)”
+C74H129O24P1zz!”Glycerophospholipids (GP)”
+C79H150O17P2zz!”Glycerophospholipids (GP)”
+C88H168O13zz!”Fatty Acyls (FA)”
+C74H131O24P1zz!”Glycerophospholipids (GP)”
+C79H152O17P2zz!”Glycerophospholipids (GP)”
+C87H166O14zz!”Fatty Acyls (FA)”
+C88H170O13zz!”Fatty Acyls (FA)”
+C97H190O5zz!”Fatty Acyls (FA)”
+C74H133O24P1zz!”Glycerophospholipids (GP)”
+C79H154O17P2zz!”Glycerophospholipids (GP)”
+C87H168O14zz!”Fatty Acyls (FA)”
+C97H192O5zz!”Fatty Acyls (FA)”
+C74H135O24P1zz!”Glycerophospholipids (GP)”
+C94H182O8zz!”Fatty Acyls (FA)”
+C74H137O24P1zz!”Glycerophospholipids (GP)”
+C93H180O9zz!”Fatty Acyls (FA)”
+C94H184O8zz!”Fatty Acyls (FA)”
+C74H139O24P1zz!”Glycerophospholipids (GP)”
+C80H148O17P2zz!”Glycerophospholipids (GP)”
+C93H182O9zz!”Fatty Acyls (FA)”
+C64H117O33P1zz!”Glycerophospholipids (GP)”
+C80H150O17P2zz!”Glycerophospholipids (GP)”
+C75H131O24P1zz!”Glycerophospholipids (GP)”
+C80H152O17P2zz!”Glycerophospholipids (GP)”
+C89H170O13zz!”Fatty Acyls (FA)”
+C75H133O24P1zz!”Glycerophospholipids (GP)”
+C80H154O17P2zz!”Glycerophospholipids (GP)”
+C88H168O14zz!”Fatty Acyls (FA)”
+C89H172O13zz!”Fatty Acyls (FA)”
+C98H192O5zz!”Fatty Acyls (FA)”
+C75H135O24P1zz!”Glycerophospholipids (GP)”
+C80H156O17P2zz!”Glycerophospholipids (GP)”
+C88H170O14zz!”Fatty Acyls (FA)”
+C98H194O5zz!”Fatty Acyls (FA)”
+C75H137O24P1zz!”Glycerophospholipids (GP)”
+C95H184O8zz!”Fatty Acyls (FA)”
+C65H115O33P1zz!”Glycerophospholipids (GP)”
+C75H139O24P1zz!”Glycerophospholipids (GP)”
+C94H182O9zz!”Fatty Acyls (FA)”
+C95H186O8zz!”Fatty Acyls (FA)”
+C65H117O33P1zz!”Glycerophospholipids (GP)”
+C75H141O24P1zz!”Glycerophospholipids (GP)”
+C81H150O17P2zz!”Glycerophospholipids (GP)”
+C94H184O9zz!”Fatty Acyls (FA)”
+C65H119O33P1zz!”Glycerophospholipids (GP)”
+C81H152O17P2zz!”Glycerophospholipids (GP)”
+C76H133O24P1zz!”Glycerophospholipids (GP)”
+C81H154O17P2zz!”Glycerophospholipids (GP)”
+C90H172O13zz!”Fatty Acyls (FA)”
+C76H135O24P1zz!”Glycerophospholipids (GP)”
+C81H156O17P2zz!”Glycerophospholipids (GP)”
+C89H170O14zz!”Fatty Acyls (FA)”
+C90H174O13zz!”Fatty Acyls (FA)”
+C99H194O5zz!”Fatty Acyls (FA)”
+C76H137O24P1zz!”Glycerophospholipids (GP)”
+C81H158O17P2zz!”Glycerophospholipids (GP)”
+C89H172O14zz!”Fatty Acyls (FA)”
+C99H196O5zz!”Fatty Acyls (FA)”
+C76H139O24P1zz!”Glycerophospholipids (GP)”
+C96H186O8zz!”Fatty Acyls (FA)”
+C66H117O33P1zz!”Glycerophospholipids (GP)”
+C76H141O24P1zz!”Glycerophospholipids (GP)”
+C95H184O9zz!”Fatty Acyls (FA)”
+C96H188O8zz!”Fatty Acyls (FA)”
+C66H119O33P1zz!”Glycerophospholipids (GP)”
+C76H143O24P1zz!”Glycerophospholipids (GP)”
+C82H152O17P2zz!”Glycerophospholipids (GP)”
+C95H186O9zz!”Fatty Acyls (FA)”
+C66H121O33P1zz!”Glycerophospholipids (GP)”
+C82H154O17P2zz!”Glycerophospholipids (GP)”
+C82H156O17P2zz!”Glycerophospholipids (GP)”
+C91H174O13zz!”Fatty Acyls (FA)”
+C77H137O24P1zz!”Glycerophospholipids (GP)”
+C82H158O17P2zz!”Glycerophospholipids (GP)”
+C90H172O14zz!”Fatty Acyls (FA)”
+C91H176O13zz!”Fatty Acyls (FA)”
+C100H196O5zz!”Fatty Acyls (FA)”
+C67H115O33P1zz!”Glycerophospholipids (GP)”
+C71H131O29P1zz!”Glycerophospholipids (GP)”
+C77H139O24P1zz!”Glycerophospholipids (GP)”
+C82H160O17P2zz!”Glycerophospholipids (GP)”
+C90H174O14zz!”Fatty Acyls (FA)”
+C100H198O5zz!”Fatty Acyls (FA)”
+C67H117O33P1zz!”Glycerophospholipids (GP)”
+C77H141O24P1zz!”Glycerophospholipids (GP)”
+C97H188O8zz!”Fatty Acyls (FA)”
+C67H119O33P1zz!”Glycerophospholipids (GP)”
+C77H143O24P1zz!”Glycerophospholipids (GP)”
+C96H186O9zz!”Fatty Acyls (FA)”
+C97H190O8zz!”Fatty Acyls (FA)”
+C67H121O33P1zz!”Glycerophospholipids (GP)”
+C77H145O24P1zz!”Glycerophospholipids (GP)”
+C83H154O17P2zz!”Glycerophospholipids (GP)”
+C96H188O9zz!”Fatty Acyls (FA)”
+C67H123O33P1zz!”Glycerophospholipids (GP)”
+C83H156O17P2zz!”Glycerophospholipids (GP)”
+C83H158O17P2zz!”Glycerophospholipids (GP)”
+C92H176O13zz!”Fatty Acyls (FA)”
+C78H139O24P1zz!”Glycerophospholipids (GP)”
+C83H160O17P2zz!”Glycerophospholipids (GP)”
+C91H174O14zz!”Fatty Acyls (FA)”
+C92H178O13zz!”Fatty Acyls (FA)”
+C101H198O5zz!”Fatty Acyls (FA)”
+C68H117O33P1zz!”Glycerophospholipids (GP)”
+C72H133O29P1zz!”Glycerophospholipids (GP)”
+C78H141O24P1zz!”Glycerophospholipids (GP)”
+C83H162O17P2zz!”Glycerophospholipids (GP)”
+C91H176O14zz!”Fatty Acyls (FA)”
+C101H200O5zz!”Fatty Acyls (FA)”
+C68H119O33P1zz!”Glycerophospholipids (GP)”
+C78H143O24P1zz!”Glycerophospholipids (GP)”
+C98H190O8zz!”Fatty Acyls (FA)”
+C68H121O33P1zz!”Glycerophospholipids (GP)”
+C78H145O24P1zz!”Glycerophospholipids (GP)”
+C97H188O9zz!”Fatty Acyls (FA)”
+C98H192O8zz!”Fatty Acyls (FA)”
+C68H123O33P1zz!”Glycerophospholipids (GP)”
+C97H190O9zz!”Fatty Acyls (FA)”
+C68H125O33P1zz!”Glycerophospholipids (GP)”
+C84H158O17P2zz!”Glycerophospholipids (GP)”
+C73H131O29P1zz!”Glycerophospholipids (GP)”
+C84H160O17P2zz!”Glycerophospholipids (GP)”
+C93H178O13zz!”Fatty Acyls (FA)”
+C73H133O29P1zz!”Glycerophospholipids (GP)”
+C84H162O17P2zz!”Glycerophospholipids (GP)”
+C92H176O14zz!”Fatty Acyls (FA)”
+C93H180O13zz!”Fatty Acyls (FA)”
+C102H200O5zz!”Fatty Acyls (FA)”
+C73H135O29P1zz!”Glycerophospholipids (GP)”
+C84H164O17P2zz!”Glycerophospholipids (GP)”
+C92H178O14zz!”Fatty Acyls (FA)”
+C102H202O5zz!”Fatty Acyls (FA)”
+C69H121O33P1zz!”Glycerophospholipids (GP)”
+C99H192O8zz!”Fatty Acyls (FA)”
+C69H123O33P1zz!”Glycerophospholipids (GP)”
+C98H190O9zz!”Fatty Acyls (FA)”
+C99H194O8zz!”Fatty Acyls (FA)”
+C69H125O33P1zz!”Glycerophospholipids (GP)”
+C98H192O9zz!”Fatty Acyls (FA)”
+C69H127O33P1zz!”Glycerophospholipids (GP)”
+C85H160O17P2zz!”Glycerophospholipids (GP)”
+C74H133O29P1zz!”Glycerophospholipids (GP)”
+C85H162O17P2zz!”Glycerophospholipids (GP)”
+C94H180O13zz!”Fatty Acyls (FA)”
+C74H135O29P1zz!”Glycerophospholipids (GP)”
+C85H164O17P2zz!”Glycerophospholipids (GP)”
+C93H178O14zz!”Fatty Acyls (FA)”
+C94H182O13zz!”Fatty Acyls (FA)”
+C103H202O5zz!”Fatty Acyls (FA)”
+C74H137O29P1zz!”Glycerophospholipids (GP)”
+C85H166O17P2zz!”Glycerophospholipids (GP)”
+C93H180O14zz!”Fatty Acyls (FA)”
+C103H204O5zz!”Fatty Acyls (FA)”
+C70H123O33P1zz!”Glycerophospholipids (GP)”
+C100H194O8zz!”Fatty Acyls (FA)”
+C70H125O33P1zz!”Glycerophospholipids (GP)”
+C99H192O9zz!”Fatty Acyls (FA)”
+C100H196O8zz!”Fatty Acyls (FA)”
+C70H127O33P1zz!”Glycerophospholipids (GP)”
+C75H131O29P1zz!”Glycerophospholipids (GP)”
+C99H194O9zz!”Fatty Acyls (FA)”
+C70H129O33P1zz!”Glycerophospholipids (GP)”
+C75H133O29P1zz!”Glycerophospholipids (GP)”
+C86H162O17P2zz!”Glycerophospholipids (GP)”
+C75H135O29P1zz!”Glycerophospholipids (GP)”
+C86H164O17P2zz!”Glycerophospholipids (GP)”
+C95H182O13zz!”Fatty Acyls (FA)”
+C75H137O29P1zz!”Glycerophospholipids (GP)”
+C86H166O17P2zz!”Glycerophospholipids (GP)”
+C94H180O14zz!”Fatty Acyls (FA)”
+C95H184O13zz!”Fatty Acyls (FA)”
+C104H204O5zz!”Fatty Acyls (FA)”
+C75H139O29P1zz!”Glycerophospholipids (GP)”
+C86H168O17P2zz!”Glycerophospholipids (GP)”
+C94H182O14zz!”Fatty Acyls (FA)”
+C104H206O5zz!”Fatty Acyls (FA)”
+C100H194O9zz!”Fatty Acyls (FA)”
+C76H133O29P1zz!”Glycerophospholipids (GP)”
+C100H196O9zz!”Fatty Acyls (FA)”
+C76H135O29P1zz!”Glycerophospholipids (GP)”
+C87H164O17P2zz!”Glycerophospholipids (GP)”
+C61H109O42P1zz!”Glycerophospholipids (GP)”
+C76H137O29P1zz!”Glycerophospholipids (GP)”
+C87H166O17P2zz!”Glycerophospholipids (GP)”
+C96H184O13zz!”Fatty Acyls (FA)”
+C76H139O29P1zz!”Glycerophospholipids (GP)”
+C87H168O17P2zz!”Glycerophospholipids (GP)”
+C95H182O14zz!”Fatty Acyls (FA)”
+C96H186O13zz!”Fatty Acyls (FA)”
+C105H206O5zz!”Fatty Acyls (FA)”
+C76H141O29P1zz!”Glycerophospholipids (GP)”
+C87H170O17P2zz!”Glycerophospholipids (GP)”
+C95H184O14zz!”Fatty Acyls (FA)”
+C105H208O5zz!”Fatty Acyls (FA)”
+C77H133O29P1zz!”Glycerophospholipids (GP)”
+C81H149O25P1zz!”Glycerophospholipids (GP)”
+C77H135O29P1zz!”Glycerophospholipids (GP)”
+C81H151O25P1zz!”Glycerophospholipids (GP)”
+C77H137O29P1zz!”Glycerophospholipids (GP)”
+C88H166O17P2zz!”Glycerophospholipids (GP)”
+C62H111O42P1zz!”Glycerophospholipids (GP)”
+C77H139O29P1zz!”Glycerophospholipids (GP)”
+C88H168O17P2zz!”Glycerophospholipids (GP)”
+C97H186O13zz!”Fatty Acyls (FA)”
+C77H141O29P1zz!”Glycerophospholipids (GP)”
+C88H170O17P2zz!”Glycerophospholipids (GP)”
+C96H184O14zz!”Fatty Acyls (FA)”
+C97H188O13zz!”Fatty Acyls (FA)”
+C77H143O29P1zz!”Glycerophospholipids (GP)”
+C88H172O17P2zz!”Glycerophospholipids (GP)”
+C96H186O14zz!”Fatty Acyls (FA)”
+C106H210O5zz!”Fatty Acyls (FA)”
+C78H135O29P1zz!”Glycerophospholipids (GP)”
+C82H151O25P1zz!”Glycerophospholipids (GP)”
+C63H109O42P1zz!”Glycerophospholipids (GP)”
+C78H137O29P1zz!”Glycerophospholipids (GP)”
+C82H153O25P1zz!”Glycerophospholipids (GP)”
+C63H111O42P1zz!”Glycerophospholipids (GP)”
+C78H139O29P1zz!”Glycerophospholipids (GP)”
+C89H168O17P2zz!”Glycerophospholipids (GP)”
+C63H113O42P1zz!”Glycerophospholipids (GP)”
+C78H141O29P1zz!”Glycerophospholipids (GP)”
+C89H170O17P2zz!”Glycerophospholipids (GP)”
+C98H188O13zz!”Fatty Acyls (FA)”
+C78H143O29P1zz!”Glycerophospholipids (GP)”
+C89H172O17P2zz!”Glycerophospholipids (GP)”
+C97H186O14zz!”Fatty Acyls (FA)”
+C98H190O13zz!”Fatty Acyls (FA)”
+C78H145O29P1zz!”Glycerophospholipids (GP)”
+C83H149O25P1zz!”Glycerophospholipids (GP)”
+C89H174O17P2zz!”Glycerophospholipids (GP)”
+C97H188O14zz!”Fatty Acyls (FA)”
+C83H151O25P1zz!”Glycerophospholipids (GP)”
+C79H137O29P1zz!”Glycerophospholipids (GP)”
+C83H153O25P1zz!”Glycerophospholipids (GP)”
+C64H111O42P1zz!”Glycerophospholipids (GP)”
+C79H139O29P1zz!”Glycerophospholipids (GP)”
+C83H155O25P1zz!”Glycerophospholipids (GP)”
+C64H113O42P1zz!”Glycerophospholipids (GP)”
+C79H141O29P1zz!”Glycerophospholipids (GP)”
+C90H170O17P2zz!”Glycerophospholipids (GP)”
+C64H115O42P1zz!”Glycerophospholipids (GP)”
+C79H143O29P1zz!”Glycerophospholipids (GP)”
+C90H172O17P2zz!”Glycerophospholipids (GP)”
+C99H190O13zz!”Fatty Acyls (FA)”
+C79H145O29P1zz!”Glycerophospholipids (GP)”
+C90H172O19S1zz!”Saccharolipids (SL)”
+C90H174O17P2zz!”Glycerophospholipids (GP)”
+C98H188O14zz!”Fatty Acyls (FA)”
+C99H192O13zz!”Fatty Acyls (FA)”
+C79H147O29P1zz!”Glycerophospholipids (GP)”
+C84H151O25P1zz!”Glycerophospholipids (GP)”
+C90H176O17P2zz!”Glycerophospholipids (GP)”
+C98H190O14zz!”Fatty Acyls (FA)”
+C69H125O38P1zz!”Glycerophospholipids (GP)”
+C84H153O25P1zz!”Glycerophospholipids (GP)”
+C80H139O29P1zz!”Glycerophospholipids (GP)”
+C84H155O25P1zz!”Glycerophospholipids (GP)”
+C80H141O29P1zz!”Glycerophospholipids (GP)”
+C84H157O25P1zz!”Glycerophospholipids (GP)”
+C80H143O29P1zz!”Glycerophospholipids (GP)”
+C91H172O17P2zz!”Glycerophospholipids (GP)”
+C80H145O29P1zz!”Glycerophospholipids (GP)”
+C85H149O25P1zz!”Glycerophospholipids (GP)”
+C91H174O17P2zz!”Glycerophospholipids (GP)”
+C100H192O13zz!”Fatty Acyls (FA)”
+C80H147O29P1zz!”Glycerophospholipids (GP)”
+C85H151O25P1zz!”Glycerophospholipids (GP)”
+C91H176O17P2zz!”Glycerophospholipids (GP)”
+C99H190O14zz!”Fatty Acyls (FA)”
+C100H194O13zz!”Fatty Acyls (FA)”
+C80H149O29P1zz!”Glycerophospholipids (GP)”
+C85H153O25P1zz!”Glycerophospholipids (GP)”
+C91H178O17P2zz!”Glycerophospholipids (GP)”
+C99H192O14zz!”Fatty Acyls (FA)”
+C70H127O38P1zz!”Glycerophospholipids (GP)”
+C85H155O25P1zz!”Glycerophospholipids (GP)”
+C81H141O29P1zz!”Glycerophospholipids (GP)”
+C85H157O25P1zz!”Glycerophospholipids (GP)”
+C81H143O29P1zz!”Glycerophospholipids (GP)”
+C85H159O25P1zz!”Glycerophospholipids (GP)”
+C81H145O29P1zz!”Glycerophospholipids (GP)”
+C81H147O29P1zz!”Glycerophospholipids (GP)”
+C86H151O25P1zz!”Glycerophospholipids (GP)”
+C92H176O17P2zz!”Glycerophospholipids (GP)”
+C101H194O13zz!”Fatty Acyls (FA)”
+C71H125O38P1zz!”Glycerophospholipids (GP)”
+C81H149O29P1zz!”Glycerophospholipids (GP)”
+C86H153O25P1zz!”Glycerophospholipids (GP)”
+C92H176O19S1zz!”Saccharolipids (SL)”
+C92H178O17P2zz!”Glycerophospholipids (GP)”
+C100H192O14zz!”Fatty Acyls (FA)”
+C101H196O13zz!”Fatty Acyls (FA)”
+C71H127O38P1zz!”Glycerophospholipids (GP)”
+C81H151O29P1zz!”Glycerophospholipids (GP)”
+C86H155O25P1zz!”Glycerophospholipids (GP)”
+C92H180O17P2zz!”Glycerophospholipids (GP)”
+C100H194O14zz!”Fatty Acyls (FA)”
+C71H129O38P1zz!”Glycerophospholipids (GP)”
+C86H157O25P1zz!”Glycerophospholipids (GP)”
+C82H143O29P1zz!”Glycerophospholipids (GP)”
+C86H159O25P1zz!”Glycerophospholipids (GP)”
+C82H145O29P1zz!”Glycerophospholipids (GP)”
+C86H161O25P1zz!”Glycerophospholipids (GP)”
+C82H147O29P1zz!”Glycerophospholipids (GP)”
+C87H151O25P1zz!”Glycerophospholipids (GP)”
+C82H149O29P1zz!”Glycerophospholipids (GP)”
+C87H153O25P1zz!”Glycerophospholipids (GP)”
+C93H178O17P2zz!”Glycerophospholipids (GP)”
+C102H196O13zz!”Fatty Acyls (FA)”
+C72H127O38P1zz!”Glycerophospholipids (GP)”
+C82H151O29P1zz!”Glycerophospholipids (GP)”
+C87H155O25P1zz!”Glycerophospholipids (GP)”
+C93H178O19S1zz!”Saccharolipids (SL)”
+C93H180O17P2zz!”Glycerophospholipids (GP)”
+C101H194O14zz!”Fatty Acyls (FA)”
+C102H198O13zz!”Fatty Acyls (FA)”
+C72H129O38P1zz!”Glycerophospholipids (GP)”
+C82H153O29P1zz!”Glycerophospholipids (GP)”
+C87H157O25P1zz!”Glycerophospholipids (GP)”
+C93H182O17P2zz!”Glycerophospholipids (GP)”
+C101H196O14zz!”Fatty Acyls (FA)”
+C72H131O38P1zz!”Glycerophospholipids (GP)”
+C87H159O25P1zz!”Glycerophospholipids (GP)”
+C87H161O25P1zz!”Glycerophospholipids (GP)”
+C83H147O29P1zz!”Glycerophospholipids (GP)”
+C87H163O25P1zz!”Glycerophospholipids (GP)”
+C73H125O38P1zz!”Glycerophospholipids (GP)”
+C77H141O34P1zz!”Glycerophospholipids (GP)”
+C83H149O29P1zz!”Glycerophospholipids (GP)”
+C88H153O25P1zz!”Glycerophospholipids (GP)”
+C73H127O38P1zz!”Glycerophospholipids (GP)”
+C83H151O29P1zz!”Glycerophospholipids (GP)”
+C88H155O25P1zz!”Glycerophospholipids (GP)”
+C94H180O17P2zz!”Glycerophospholipids (GP)”
+C103H198O13zz!”Fatty Acyls (FA)”
+C73H129O38P1zz!”Glycerophospholipids (GP)”
+C83H153O29P1zz!”Glycerophospholipids (GP)”
+C88H157O25P1zz!”Glycerophospholipids (GP)”
+C94H180O19S1zz!”Saccharolipids (SL)”
+C94H182O17P2zz!”Glycerophospholipids (GP)”
+C102H196O14zz!”Fatty Acyls (FA)”
+C103H200O13zz!”Fatty Acyls (FA)”
+C73H131O38P1zz!”Glycerophospholipids (GP)”
+C83H155O29P1zz!”Glycerophospholipids (GP)”
+C88H159O25P1zz!”Glycerophospholipids (GP)”
+C94H184O17P2zz!”Glycerophospholipids (GP)”
+C102H198O14zz!”Fatty Acyls (FA)”
+C73H133O38P1zz!”Glycerophospholipids (GP)”
+C88H161O25P1zz!”Glycerophospholipids (GP)”
+C88H163O25P1zz!”Glycerophospholipids (GP)”
+C84H149O29P1zz!”Glycerophospholipids (GP)”
+C88H165O25P1zz!”Glycerophospholipids (GP)”
+C74H127O38P1zz!”Glycerophospholipids (GP)”
+C78H143O34P1zz!”Glycerophospholipids (GP)”
+C84H151O29P1zz!”Glycerophospholipids (GP)”
+C89H155O25P1zz!”Glycerophospholipids (GP)”
+C74H129O38P1zz!”Glycerophospholipids (GP)”
+C84H153O29P1zz!”Glycerophospholipids (GP)”
+C89H157O25P1zz!”Glycerophospholipids (GP)”
+C95H182O17P2zz!”Glycerophospholipids (GP)”
+C104H200O13zz!”Fatty Acyls (FA)”
+C74H131O38P1zz!”Glycerophospholipids (GP)”
+C84H155O29P1zz!”Glycerophospholipids (GP)”
+C89H159O25P1zz!”Glycerophospholipids (GP)”
+C95H182O19S1zz!”Saccharolipids (SL)”
+C95H184O17P2zz!”Glycerophospholipids (GP)”
+C103H198O14zz!”Fatty Acyls (FA)”
+C104H202O13zz!”Fatty Acyls (FA)”
+C74H133O38P1zz!”Glycerophospholipids (GP)”
+C89H161O25P1zz!”Glycerophospholipids (GP)”
+C95H186O17P2zz!”Glycerophospholipids (GP)”
+C103H200O14zz!”Fatty Acyls (FA)”
+C74H135O38P1zz!”Glycerophospholipids (GP)”
+C89H163O25P1zz!”Glycerophospholipids (GP)”
+C79H141O34P1zz!”Glycerophospholipids (GP)”
+C89H165O25P1zz!”Glycerophospholipids (GP)”
+C79H143O34P1zz!”Glycerophospholipids (GP)”
+C89H167O25P1zz!”Glycerophospholipids (GP)”
+C79H145O34P1zz!”Glycerophospholipids (GP)”
+C90H157O25P1zz!”Glycerophospholipids (GP)”
+C75H131O38P1zz!”Glycerophospholipids (GP)”
+C90H159O25P1zz!”Glycerophospholipids (GP)”
+C96H184O17P2zz!”Glycerophospholipids (GP)”
+C105H202O13zz!”Fatty Acyls (FA)”
+C75H133O38P1zz!”Glycerophospholipids (GP)”
+C90H161O25P1zz!”Glycerophospholipids (GP)”
+C96H184O19S1zz!”Saccharolipids (SL)”
+C96H186O17P2zz!”Glycerophospholipids (GP)”
+C104H200O14zz!”Fatty Acyls (FA)”
+C105H204O13zz!”Fatty Acyls (FA)”
+C75H135O38P1zz!”Glycerophospholipids (GP)”
+C90H163O25P1zz!”Glycerophospholipids (GP)”
+C96H188O17P2zz!”Glycerophospholipids (GP)”
+C104H202O14zz!”Fatty Acyls (FA)”
+C75H137O38P1zz!”Glycerophospholipids (GP)”
+C90H165O25P1zz!”Glycerophospholipids (GP)”
+C80H143O34P1zz!”Glycerophospholipids (GP)”
+C90H167O25P1zz!”Glycerophospholipids (GP)”
+C80H145O34P1zz!”Glycerophospholipids (GP)”
+C90H169O25P1zz!”Glycerophospholipids (GP)”
+C80H147O34P1zz!”Glycerophospholipids (GP)”
+C91H159O25P1zz!”Glycerophospholipids (GP)”
+C76H133O38P1zz!”Glycerophospholipids (GP)”
+C91H161O25P1zz!”Glycerophospholipids (GP)”
+C97H186O17P2zz!”Glycerophospholipids (GP)”
+C106H204O13zz!”Fatty Acyls (FA)”
+C76H135O38P1zz!”Glycerophospholipids (GP)”
+C91H163O25P1zz!”Glycerophospholipids (GP)”
+C97H186O19S1zz!”Saccharolipids (SL)”
+C97H188O17P2zz!”Glycerophospholipids (GP)”
+C105H202O14zz!”Fatty Acyls (FA)”
+C106H206O13zz!”Fatty Acyls (FA)”
+C76H137O38P1zz!”Glycerophospholipids (GP)”
+C81H141O34P1zz!”Glycerophospholipids (GP)”
+C91H165O25P1zz!”Glycerophospholipids (GP)”
+C97H190O17P2zz!”Glycerophospholipids (GP)”
+C105H204O14zz!”Fatty Acyls (FA)”
+C76H139O38P1zz!”Glycerophospholipids (GP)”
+C81H143O34P1zz!”Glycerophospholipids (GP)”
+C91H167O25P1zz!”Glycerophospholipids (GP)”
+C81H145O34P1zz!”Glycerophospholipids (GP)”
+C91H169O25P1zz!”Glycerophospholipids (GP)”
+C81H147O34P1zz!”Glycerophospholipids (GP)”
+C91H171O25P1zz!”Glycerophospholipids (GP)”
+C81H149O34P1zz!”Glycerophospholipids (GP)”
+C92H161O25P1zz!”Glycerophospholipids (GP)”
+C92H163O25P1zz!”Glycerophospholipids (GP)”
+C98H188O17P2zz!”Glycerophospholipids (GP)”
+C92H165O25P1zz!”Glycerophospholipids (GP)”
+C98H188O19S1zz!”Saccharolipids (SL)”
+C98H190O17P2zz!”Glycerophospholipids (GP)”
+C106H204O14zz!”Fatty Acyls (FA)”
+C82H143O34P1zz!”Glycerophospholipids (GP)”
+C92H167O25P1zz!”Glycerophospholipids (GP)”
+C98H192O17P2zz!”Glycerophospholipids (GP)”
+C106H206O14zz!”Fatty Acyls (FA)”
+C82H145O34P1zz!”Glycerophospholipids (GP)”
+C92H169O25P1zz!”Glycerophospholipids (GP)”
+C82H147O34P1zz!”Glycerophospholipids (GP)”
+C92H171O25P1zz!”Glycerophospholipids (GP)”
+C82H149O34P1zz!”Glycerophospholipids (GP)”
+C92H173O25P1zz!”Glycerophospholipids (GP)”
+C82H151O34P1zz!”Glycerophospholipids (GP)”
+C93H163O25P1zz!”Glycerophospholipids (GP)”
+C93H165O25P1zz!”Glycerophospholipids (GP)”
+C99H190O17P2zz!”Glycerophospholipids (GP)”
+C103H188O18zz!”Fatty Acyls (FA)”
+C83H143O34P1zz!”Glycerophospholipids (GP)”
+C87H159O30P1zz!”Glycerophospholipids (GP)”
+C93H167O25P1zz!”Glycerophospholipids (GP)”
+C99H190O19S1zz!”Saccharolipids (SL)”
+C99H192O17P2zz!”Glycerophospholipids (GP)”
+C83H145O34P1zz!”Glycerophospholipids (GP)”
+C87H161O30P1zz!”Glycerophospholipids (GP)”
+C93H169O25P1zz!”Glycerophospholipids (GP)”
+C99H194O17P2zz!”Glycerophospholipids (GP)”
+C83H147O34P1zz!”Glycerophospholipids (GP)”
+C93H171O25P1zz!”Glycerophospholipids (GP)”
+C83H149O34P1zz!”Glycerophospholipids (GP)”
+C93H173O25P1zz!”Glycerophospholipids (GP)”
+C83H151O34P1zz!”Glycerophospholipids (GP)”
+C93H175O25P1zz!”Glycerophospholipids (GP)”
+C83H153O34P1zz!”Glycerophospholipids (GP)”
+C94H165O25P1zz!”Glycerophospholipids (GP)”
+C94H167O25P1zz!”Glycerophospholipids (GP)”
+C104H190O18zz!”Fatty Acyls (FA)”
+C84H145O34P1zz!”Glycerophospholipids (GP)”
+C88H161O30P1zz!”Glycerophospholipids (GP)”
+C94H169O25P1zz!”Glycerophospholipids (GP)”
+C100H192O19S1zz!”Saccharolipids (SL)”
+C100H194O17P2zz!”Glycerophospholipids (GP)”
+C104H192O18zz!”Fatty Acyls (FA)”
+C84H147O34P1zz!”Glycerophospholipids (GP)”
+C88H163O30P1zz!”Glycerophospholipids (GP)”
+C94H171O25P1zz!”Glycerophospholipids (GP)”
+C100H196O17P2zz!”Glycerophospholipids (GP)”
+C84H149O34P1zz!”Glycerophospholipids (GP)”
+C94H173O25P1zz!”Glycerophospholipids (GP)”
+C84H151O34P1zz!”Glycerophospholipids (GP)”
+C94H175O25P1zz!”Glycerophospholipids (GP)”
+C84H153O34P1zz!”Glycerophospholipids (GP)”
+C94H177O25P1zz!”Glycerophospholipids (GP)”
+C84H155O34P1zz!”Glycerophospholipids (GP)”
+C89H159O30P1zz!”Glycerophospholipids (GP)”
+C89H161O30P1zz!”Glycerophospholipids (GP)”
+C95H169O25P1zz!”Glycerophospholipids (GP)”
+C105H192O18zz!”Fatty Acyls (FA)”
+C85H147O34P1zz!”Glycerophospholipids (GP)”
+C89H163O30P1zz!”Glycerophospholipids (GP)”
+C95H171O25P1zz!”Glycerophospholipids (GP)”
+C101H194O19S1zz!”Saccharolipids (SL)”
+C105H194O18zz!”Fatty Acyls (FA)”
+C85H149O34P1zz!”Glycerophospholipids (GP)”
+C89H165O30P1zz!”Glycerophospholipids (GP)”
+C95H173O25P1zz!”Glycerophospholipids (GP)”
+C101H198O17P2zz!”Glycerophospholipids (GP)”
+C85H151O34P1zz!”Glycerophospholipids (GP)”
+C95H175O25P1zz!”Glycerophospholipids (GP)”
+C85H153O34P1zz!”Glycerophospholipids (GP)”
+C95H177O25P1zz!”Glycerophospholipids (GP)”
+C85H155O34P1zz!”Glycerophospholipids (GP)”
+C95H179O25P1zz!”Glycerophospholipids (GP)”
+C85H157O34P1zz!”Glycerophospholipids (GP)”
+C90H161O30P1zz!”Glycerophospholipids (GP)”
+C75H135O43P1zz!”Glycerophospholipids (GP)”
+C90H163O30P1zz!”Glycerophospholipids (GP)”
+C96H171O25P1zz!”Glycerophospholipids (GP)”
+C106H194O18zz!”Fatty Acyls (FA)”
+C86H149O34P1zz!”Glycerophospholipids (GP)”
+C90H165O30P1zz!”Glycerophospholipids (GP)”
+C96H173O25P1zz!”Glycerophospholipids (GP)”
+C102H196O19S1zz!”Saccharolipids (SL)”
+C106H196O18zz!”Fatty Acyls (FA)”
+C86H151O34P1zz!”Glycerophospholipids (GP)”
+C90H167O30P1zz!”Glycerophospholipids (GP)”
+C96H175O25P1zz!”Glycerophospholipids (GP)”
+C86H153O34P1zz!”Glycerophospholipids (GP)”
+C96H177O25P1zz!”Glycerophospholipids (GP)”
+C86H155O34P1zz!”Glycerophospholipids (GP)”
+C91H159O30P1zz!”Glycerophospholipids (GP)”
+C96H179O25P1zz!”Glycerophospholipids (GP)”
+C86H157O34P1zz!”Glycerophospholipids (GP)”
+C91H161O30P1zz!”Glycerophospholipids (GP)”
+C86H159O34P1zz!”Glycerophospholipids (GP)”
+C91H163O30P1zz!”Glycerophospholipids (GP)”
+C76H137O43P1zz!”Glycerophospholipids (GP)”
+C91H165O30P1zz!”Glycerophospholipids (GP)”
+C107H196O18zz!”Fatty Acyls (FA)”
+C87H151O34P1zz!”Glycerophospholipids (GP)”
+C91H167O30P1zz!”Glycerophospholipids (GP)”
+C103H198O19S1zz!”Saccharolipids (SL)”
+C107H198O18zz!”Fatty Acyls (FA)”
+C87H153O34P1zz!”Glycerophospholipids (GP)”
+C91H169O30P1zz!”Glycerophospholipids (GP)”
+C87H155O34P1zz!”Glycerophospholipids (GP)”
+C87H157O34P1zz!”Glycerophospholipids (GP)”
+C92H161O30P1zz!”Glycerophospholipids (GP)”
+C77H135O43P1zz!”Glycerophospholipids (GP)”
+C87H159O34P1zz!”Glycerophospholipids (GP)”
+C92H163O30P1zz!”Glycerophospholipids (GP)”
+C77H137O43P1zz!”Glycerophospholipids (GP)”
+C87H161O34P1zz!”Glycerophospholipids (GP)”
+C92H165O30P1zz!”Glycerophospholipids (GP)”
+C77H139O43P1zz!”Glycerophospholipids (GP)”
+C92H167O30P1zz!”Glycerophospholipids (GP)”
+C108H198O18zz!”Fatty Acyls (FA)”
+C88H153O34P1zz!”Glycerophospholipids (GP)”
+C92H169O30P1zz!”Glycerophospholipids (GP)”
+C104H200O19S1zz!”Saccharolipids (SL)”
+C108H200O18zz!”Fatty Acyls (FA)”
+C88H155O34P1zz!”Glycerophospholipids (GP)”
+C92H171O30P1zz!”Glycerophospholipids (GP)”
+C88H157O34P1zz!”Glycerophospholipids (GP)”
+C93H161O30P1zz!”Glycerophospholipids (GP)”
+C88H159O34P1zz!”Glycerophospholipids (GP)”
+C93H163O30P1zz!”Glycerophospholipids (GP)”
+C78H137O43P1zz!”Glycerophospholipids (GP)”
+C88H161O34P1zz!”Glycerophospholipids (GP)”
+C93H165O30P1zz!”Glycerophospholipids (GP)”
+C78H139O43P1zz!”Glycerophospholipids (GP)”
+C88H163O34P1zz!”Glycerophospholipids (GP)”
+C93H167O30P1zz!”Glycerophospholipids (GP)”
+C78H141O43P1zz!”Glycerophospholipids (GP)”
+C93H169O30P1zz!”Glycerophospholipids (GP)”
+C109H200O18zz!”Fatty Acyls (FA)”
+C93H171O30P1zz!”Glycerophospholipids (GP)”
+C105H202O19S1zz!”Saccharolipids (SL)”
+C109H202O18zz!”Fatty Acyls (FA)”
+C89H157O34P1zz!”Glycerophospholipids (GP)”
+C93H173O30P1zz!”Glycerophospholipids (GP)”
+C79H135O43P1zz!”Glycerophospholipids (GP)”
+C83H151O39P1zz!”Glycerophospholipids (GP)”
+C89H159O34P1zz!”Glycerophospholipids (GP)”
+C94H163O30P1zz!”Glycerophospholipids (GP)”
+C79H137O43P1zz!”Glycerophospholipids (GP)”
+C89H161O34P1zz!”Glycerophospholipids (GP)”
+C94H165O30P1zz!”Glycerophospholipids (GP)”
+C79H139O43P1zz!”Glycerophospholipids (GP)”
+C89H163O34P1zz!”Glycerophospholipids (GP)”
+C94H167O30P1zz!”Glycerophospholipids (GP)”
+C79H141O43P1zz!”Glycerophospholipids (GP)”
+C89H165O34P1zz!”Glycerophospholipids (GP)”
+C94H169O30P1zz!”Glycerophospholipids (GP)”
+C79H143O43P1zz!”Glycerophospholipids (GP)”
+C94H171O30P1zz!”Glycerophospholipids (GP)”
+C110H202O18zz!”Fatty Acyls (FA)”
+C94H173O30P1zz!”Glycerophospholipids (GP)”
+C106H204O19S1zz!”Saccharolipids (SL)”
+C110H204O18zz!”Fatty Acyls (FA)”
+C90H159O34P1zz!”Glycerophospholipids (GP)”
+C94H175O30P1zz!”Glycerophospholipids (GP)”
+C80H137O43P1zz!”Glycerophospholipids (GP)”
+C84H153O39P1zz!”Glycerophospholipids (GP)”
+C90H161O34P1zz!”Glycerophospholipids (GP)”
+C95H165O30P1zz!”Glycerophospholipids (GP)”
+C80H139O43P1zz!”Glycerophospholipids (GP)”
+C90H163O34P1zz!”Glycerophospholipids (GP)”
+C95H167O30P1zz!”Glycerophospholipids (GP)”
+C80H141O43P1zz!”Glycerophospholipids (GP)”
+C90H165O34P1zz!”Glycerophospholipids (GP)”
+C95H169O30P1zz!”Glycerophospholipids (GP)”
+C80H143O43P1zz!”Glycerophospholipids (GP)”
+C95H171O30P1zz!”Glycerophospholipids (GP)”
+C80H145O43P1zz!”Glycerophospholipids (GP)”
+C95H173O30P1zz!”Glycerophospholipids (GP)”
+C111H204O18zz!”Fatty Acyls (FA)”
+C85H151O39P1zz!”Glycerophospholipids (GP)”
+C95H175O30P1zz!”Glycerophospholipids (GP)”
+C107H206O19S1zz!”Saccharolipids (SL)”
+C111H206O18zz!”Fatty Acyls (FA)”
+C85H153O39P1zz!”Glycerophospholipids (GP)”
+C95H177O30P1zz!”Glycerophospholipids (GP)”
+C85H155O39P1zz!”Glycerophospholipids (GP)”
+C96H167O30P1zz!”Glycerophospholipids (GP)”
+C81H141O43P1zz!”Glycerophospholipids (GP)”
+C96H169O30P1zz!”Glycerophospholipids (GP)”
+C81H143O43P1zz!”Glycerophospholipids (GP)”
+C96H171O30P1zz!”Glycerophospholipids (GP)”
+C81H145O43P1zz!”Glycerophospholipids (GP)”
+C96H173O30P1zz!”Glycerophospholipids (GP)”
+C81H147O43P1zz!”Glycerophospholipids (GP)”
+C96H175O30P1zz!”Glycerophospholipids (GP)”
+C112H206O18zz!”Fatty Acyls (FA)”
+C86H153O39P1zz!”Glycerophospholipids (GP)”
+C96H177O30P1zz!”Glycerophospholipids (GP)”
+C108H208O19S1zz!”Saccharolipids (SL)”
+C112H208O18zz!”Fatty Acyls (FA)”
+C86H155O39P1zz!”Glycerophospholipids (GP)”
+C96H179O30P1zz!”Glycerophospholipids (GP)”
+C86H157O39P1zz!”Glycerophospholipids (GP)”
+C97H169O30P1zz!”Glycerophospholipids (GP)”
+C82H143O43P1zz!”Glycerophospholipids (GP)”
+C97H171O30P1zz!”Glycerophospholipids (GP)”
+C82H145O43P1zz!”Glycerophospholipids (GP)”
+C97H173O30P1zz!”Glycerophospholipids (GP)”
+C82H147O43P1zz!”Glycerophospholipids (GP)”
+C87H151O39P1zz!”Glycerophospholipids (GP)”
+C97H175O30P1zz!”Glycerophospholipids (GP)”
+C82H149O43P1zz!”Glycerophospholipids (GP)”
+C87H153O39P1zz!”Glycerophospholipids (GP)”
+C97H177O30P1zz!”Glycerophospholipids (GP)”
+C113H208O18zz!”Fatty Acyls (FA)”
+C87H155O39P1zz!”Glycerophospholipids (GP)”
+C97H179O30P1zz!”Glycerophospholipids (GP)”
+C109H210O19S1zz!”Saccharolipids (SL)”
+C113H210O18zz!”Fatty Acyls (FA)”
+C87H157O39P1zz!”Glycerophospholipids (GP)”
+C97H181O30P1zz!”Glycerophospholipids (GP)”
+C87H159O39P1zz!”Glycerophospholipids (GP)”
+C98H171O30P1zz!”Glycerophospholipids (GP)”
+C98H173O30P1zz!”Glycerophospholipids (GP)”
+C98H175O30P1zz!”Glycerophospholipids (GP)”
+C88H153O39P1zz!”Glycerophospholipids (GP)”
+C98H177O30P1zz!”Glycerophospholipids (GP)”
+C88H155O39P1zz!”Glycerophospholipids (GP)”
+C98H179O30P1zz!”Glycerophospholipids (GP)”
+C114H210O18zz!”Fatty Acyls (FA)”
+C88H157O39P1zz!”Glycerophospholipids (GP)”
+C98H181O30P1zz!”Glycerophospholipids (GP)”
+C110H212O19S1zz!”Saccharolipids (SL)”
+C114H212O18zz!”Fatty Acyls (FA)”
+C88H159O39P1zz!”Glycerophospholipids (GP)”
+C98H183O30P1zz!”Glycerophospholipids (GP)”
+C88H161O39P1zz!”Glycerophospholipids (GP)”
+C99H173O30P1zz!”Glycerophospholipids (GP)”
+C99H175O30P1zz!”Glycerophospholipids (GP)”
+C89H153O39P1zz!”Glycerophospholipids (GP)”
+C93H169O35P1zz!”Glycerophospholipids (GP)”
+C99H177O30P1zz!”Glycerophospholipids (GP)”
+C89H155O39P1zz!”Glycerophospholipids (GP)”
+C93H171O35P1zz!”Glycerophospholipids (GP)”
+C99H179O30P1zz!”Glycerophospholipids (GP)”
+C89H157O39P1zz!”Glycerophospholipids (GP)”
+C99H181O30P1zz!”Glycerophospholipids (GP)”
+C115H212O18zz!”Fatty Acyls (FA)”
+C89H159O39P1zz!”Glycerophospholipids (GP)”
+C99H183O30P1zz!”Glycerophospholipids (GP)”
+C111H214O19S1zz!”Saccharolipids (SL)”
+C115H214O18zz!”Fatty Acyls (FA)”
+C89H161O39P1zz!”Glycerophospholipids (GP)”
+C99H185O30P1zz!”Glycerophospholipids (GP)”
+C89H163O39P1zz!”Glycerophospholipids (GP)”
+C100H175O30P1zz!”Glycerophospholipids (GP)”
+C100H177O30P1zz!”Glycerophospholipids (GP)”
+C90H155O39P1zz!”Glycerophospholipids (GP)”
+C94H171O35P1zz!”Glycerophospholipids (GP)”
+C100H179O30P1zz!”Glycerophospholipids (GP)”
+C90H157O39P1zz!”Glycerophospholipids (GP)”
+C94H173O35P1zz!”Glycerophospholipids (GP)”
+C100H181O30P1zz!”Glycerophospholipids (GP)”
+C90H159O39P1zz!”Glycerophospholipids (GP)”
+C100H183O30P1zz!”Glycerophospholipids (GP)”
+C116H214O18zz!”Fatty Acyls (FA)”
+C90H161O39P1zz!”Glycerophospholipids (GP)”
+C100H185O30P1zz!”Glycerophospholipids (GP)”
+C112H216O19S1zz!”Saccharolipids (SL)”
+C116H216O18zz!”Fatty Acyls (FA)”
+C90H163O39P1zz!”Glycerophospholipids (GP)”
+C100H187O30P1zz!”Glycerophospholipids (GP)”
+C90H165O39P1zz!”Glycerophospholipids (GP)”
+C95H169O35P1zz!”Glycerophospholipids (GP)”
+C95H171O35P1zz!”Glycerophospholipids (GP)”
+C101H179O30P1zz!”Glycerophospholipids (GP)”
+C91H157O39P1zz!”Glycerophospholipids (GP)”
+C95H173O35P1zz!”Glycerophospholipids (GP)”
+C101H181O30P1zz!”Glycerophospholipids (GP)”
+C91H159O39P1zz!”Glycerophospholipids (GP)”
+C95H175O35P1zz!”Glycerophospholipids (GP)”
+C101H183O30P1zz!”Glycerophospholipids (GP)”
+C91H161O39P1zz!”Glycerophospholipids (GP)”
+C101H185O30P1zz!”Glycerophospholipids (GP)”
+C117H216O18zz!”Fatty Acyls (FA)”
+C91H163O39P1zz!”Glycerophospholipids (GP)”
+C101H187O30P1zz!”Glycerophospholipids (GP)”
+C113H218O19S1zz!”Saccharolipids (SL)”
+C117H218O18zz!”Fatty Acyls (FA)”
+C91H165O39P1zz!”Glycerophospholipids (GP)”
+C101H189O30P1zz!”Glycerophospholipids (GP)”
+C91H167O39P1zz!”Glycerophospholipids (GP)”
+C96H171O35P1zz!”Glycerophospholipids (GP)”
+C96H173O35P1zz!”Glycerophospholipids (GP)”
+C102H181O30P1zz!”Glycerophospholipids (GP)”
+C92H159O39P1zz!”Glycerophospholipids (GP)”
+C96H175O35P1zz!”Glycerophospholipids (GP)”
+C102H183O30P1zz!”Glycerophospholipids (GP)”
+C92H161O39P1zz!”Glycerophospholipids (GP)”
+C96H177O35P1zz!”Glycerophospholipids (GP)”
+C102H185O30P1zz!”Glycerophospholipids (GP)”
+C92H163O39P1zz!”Glycerophospholipids (GP)”
+C102H187O30P1zz!”Glycerophospholipids (GP)”
+C118H218O18zz!”Fatty Acyls (FA)”
+C92H165O39P1zz!”Glycerophospholipids (GP)”
+C97H169O35P1zz!”Glycerophospholipids (GP)”
+C102H189O30P1zz!”Glycerophospholipids (GP)”
+C114H220O19S1zz!”Saccharolipids (SL)”
+C118H220O18zz!”Fatty Acyls (FA)”
+C92H167O39P1zz!”Glycerophospholipids (GP)”
+C97H171O35P1zz!”Glycerophospholipids (GP)”
+C92H169O39P1zz!”Glycerophospholipids (GP)”
+C97H173O35P1zz!”Glycerophospholipids (GP)”
+C97H175O35P1zz!”Glycerophospholipids (GP)”
+C93H161O39P1zz!”Glycerophospholipids (GP)”
+C97H177O35P1zz!”Glycerophospholipids (GP)”
+C93H163O39P1zz!”Glycerophospholipids (GP)”
+C97H179O35P1zz!”Glycerophospholipids (GP)”
+C93H165O39P1zz!”Glycerophospholipids (GP)”
+C119H220O18zz!”Fatty Acyls (FA)”
+C93H167O39P1zz!”Glycerophospholipids (GP)”
+C98H171O35P1zz!”Glycerophospholipids (GP)”
+C115H222O19S1zz!”Saccharolipids (SL)”
+C119H222O18zz!”Fatty Acyls (FA)”
+C93H169O39P1zz!”Glycerophospholipids (GP)”
+C98H173O35P1zz!”Glycerophospholipids (GP)”
+C93H171O39P1zz!”Glycerophospholipids (GP)”
+C98H175O35P1zz!”Glycerophospholipids (GP)”
+C98H177O35P1zz!”Glycerophospholipids (GP)”
+C94H163O39P1zz!”Glycerophospholipids (GP)”
+C98H179O35P1zz!”Glycerophospholipids (GP)”
+C94H165O39P1zz!”Glycerophospholipids (GP)”
+C98H181O35P1zz!”Glycerophospholipids (GP)”
+C94H167O39P1zz!”Glycerophospholipids (GP)”
+C99H171O35P1zz!”Glycerophospholipids (GP)”
+C120H222O18zz!”Fatty Acyls (FA)”
+C94H169O39P1zz!”Glycerophospholipids (GP)”
+C99H173O35P1zz!”Glycerophospholipids (GP)”
+C116H224O19S1zz!”Saccharolipids (SL)”
+C120H224O18zz!”Fatty Acyls (FA)”
+C94H171O39P1zz!”Glycerophospholipids (GP)”
+C99H175O35P1zz!”Glycerophospholipids (GP)”
+C94H173O39P1zz!”Glycerophospholipids (GP)”
+C99H177O35P1zz!”Glycerophospholipids (GP)”
+C99H179O35P1zz!”Glycerophospholipids (GP)”
+C99H181O35P1zz!”Glycerophospholipids (GP)”
+C95H167O39P1zz!”Glycerophospholipids (GP)”
+C99H183O35P1zz!”Glycerophospholipids (GP)”
+C89H161O44P1zz!”Glycerophospholipids (GP)”
+C95H169O39P1zz!”Glycerophospholipids (GP)”
+C100H173O35P1zz!”Glycerophospholipids (GP)”
+C121H224O18zz!”Fatty Acyls (FA)”
+C95H171O39P1zz!”Glycerophospholipids (GP)”
+C100H175O35P1zz!”Glycerophospholipids (GP)”
+C117H226O19S1zz!”Saccharolipids (SL)”
+C121H226O18zz!”Fatty Acyls (FA)”
+C95H173O39P1zz!”Glycerophospholipids (GP)”
+C100H177O35P1zz!”Glycerophospholipids (GP)”
+C95H175O39P1zz!”Glycerophospholipids (GP)”
+C100H179O35P1zz!”Glycerophospholipids (GP)”
+C100H181O35P1zz!”Glycerophospholipids (GP)”
+C100H183O35P1zz!”Glycerophospholipids (GP)”
+C96H169O39P1zz!”Glycerophospholipids (GP)”
+C100H185O35P1zz!”Glycerophospholipids (GP)”
+C90H163O44P1zz!”Glycerophospholipids (GP)”
+C96H171O39P1zz!”Glycerophospholipids (GP)”
+C101H175O35P1zz!”Glycerophospholipids (GP)”
+C122H226O18zz!”Fatty Acyls (FA)”
+C96H173O39P1zz!”Glycerophospholipids (GP)”
+C101H177O35P1zz!”Glycerophospholipids (GP)”
+C118H228O19S1zz!”Saccharolipids (SL)”
+C122H228O18zz!”Fatty Acyls (FA)”
+C96H175O39P1zz!”Glycerophospholipids (GP)”
+C101H179O35P1zz!”Glycerophospholipids (GP)”
+C101H181O35P1zz!”Glycerophospholipids (GP)”
+C101H183O35P1zz!”Glycerophospholipids (GP)”
+C91H161O44P1zz!”Glycerophospholipids (GP)”
+C101H185O35P1zz!”Glycerophospholipids (GP)”
+C91H163O44P1zz!”Glycerophospholipids (GP)”
+C101H187O35P1zz!”Glycerophospholipids (GP)”
+C91H165O44P1zz!”Glycerophospholipids (GP)”
+C102H177O35P1zz!”Glycerophospholipids (GP)”
+C123H228O18zz!”Fatty Acyls (FA)”
+C102H179O35P1zz!”Glycerophospholipids (GP)”
+C119H230O19S1zz!”Saccharolipids (SL)”
+C123H230O18zz!”Fatty Acyls (FA)”
+C102H181O35P1zz!”Glycerophospholipids (GP)”
+C102H183O35P1zz!”Glycerophospholipids (GP)”
+C102H185O35P1zz!”Glycerophospholipids (GP)”
+C92H163O44P1zz!”Glycerophospholipids (GP)”
+C102H187O35P1zz!”Glycerophospholipids (GP)”
+C92H165O44P1zz!”Glycerophospholipids (GP)”
+C102H189O35P1zz!”Glycerophospholipids (GP)”
+C92H167O44P1zz!”Glycerophospholipids (GP)”
+C103H179O35P1zz!”Glycerophospholipids (GP)”
+C124H230O18zz!”Fatty Acyls (FA)”
+C103H181O35P1zz!”Glycerophospholipids (GP)”
+C120H232O19S1zz!”Saccharolipids (SL)”
+C124H232O18zz!”Fatty Acyls (FA)”
+C103H183O35P1zz!”Glycerophospholipids (GP)”
+C93H161O44P1zz!”Glycerophospholipids (GP)”
+C103H185O35P1zz!”Glycerophospholipids (GP)”
+C93H163O44P1zz!”Glycerophospholipids (GP)”
+C103H187O35P1zz!”Glycerophospholipids (GP)”
+C93H165O44P1zz!”Glycerophospholipids (GP)”
+C103H189O35P1zz!”Glycerophospholipids (GP)”
+C93H167O44P1zz!”Glycerophospholipids (GP)”
+C103H191O35P1zz!”Glycerophospholipids (GP)”
+C93H169O44P1zz!”Glycerophospholipids (GP)”
+C104H181O35P1zz!”Glycerophospholipids (GP)”
+C125H232O18zz!”Fatty Acyls (FA)”
+C104H183O35P1zz!”Glycerophospholipids (GP)”
+C121H234O19S1zz!”Saccharolipids (SL)”
+C125H234O18zz!”Fatty Acyls (FA)”
+C104H185O35P1zz!”Glycerophospholipids (GP)”
+C94H163O44P1zz!”Glycerophospholipids (GP)”
+C104H187O35P1zz!”Glycerophospholipids (GP)”
+C94H165O44P1zz!”Glycerophospholipids (GP)”
+C104H189O35P1zz!”Glycerophospholipids (GP)”
+C128H236O16zz!”Saccharolipids (SL)”
+C94H167O44P1zz!”Glycerophospholipids (GP)”
+C104H191O35P1zz!”Glycerophospholipids (GP)”
+C94H169O44P1zz!”Glycerophospholipids (GP)”
+C104H193O35P1zz!”Glycerophospholipids (GP)”
+C94H171O44P1zz!”Glycerophospholipids (GP)”
+C105H183O35P1zz!”Glycerophospholipids (GP)”
+C126H234O18zz!”Fatty Acyls (FA)”
+C105H185O35P1zz!”Glycerophospholipids (GP)”
+C121H232O20S1zz!”Saccharolipids (SL)”
+C122H236O19S1zz!”Saccharolipids (SL)”
+C126H236O18zz!”Fatty Acyls (FA)”
+C95H163O44P1zz!”Glycerophospholipids (GP)”
+C99H179O40P1zz!”Glycerophospholipids (GP)”
+C105H187O35P1zz!”Glycerophospholipids (GP)”
+C95H165O44P1zz!”Glycerophospholipids (GP)”
+C99H181O40P1zz!”Glycerophospholipids (GP)”
+C105H189O35P1zz!”Glycerophospholipids (GP)”
+C95H167O44P1zz!”Glycerophospholipids (GP)”
+C105H191O35P1zz!”Glycerophospholipids (GP)”
+C95H169O44P1zz!”Glycerophospholipids (GP)”
+C105H193O35P1zz!”Glycerophospholipids (GP)”
+C95H171O44P1zz!”Glycerophospholipids (GP)”
+C105H195O35P1zz!”Glycerophospholipids (GP)”
+C95H173O44P1zz!”Glycerophospholipids (GP)”
+C106H185O35P1zz!”Glycerophospholipids (GP)”
+C127H236O18zz!”Fatty Acyls (FA)”
+C106H187O35P1zz!”Glycerophospholipids (GP)”
+C123H238O19S1zz!”Saccharolipids (SL)”
+C127H238O18zz!”Fatty Acyls (FA)”
+C96H165O44P1zz!”Glycerophospholipids (GP)”
+C100H181O40P1zz!”Glycerophospholipids (GP)”
+C106H189O35P1zz!”Glycerophospholipids (GP)”
+C121H232O21S1zz!”Saccharolipids (SL)”
+C96H167O44P1zz!”Glycerophospholipids (GP)”
+C100H183O40P1zz!”Glycerophospholipids (GP)”
+C106H191O35P1zz!”Glycerophospholipids (GP)”
+C96H169O44P1zz!”Glycerophospholipids (GP)”
+C106H193O35P1zz!”Glycerophospholipids (GP)”
+C130H240O16zz!”Saccharolipids (SL)”
+C96H171O44P1zz!”Glycerophospholipids (GP)”
+C106H195O35P1zz!”Glycerophospholipids (GP)”
+C96H173O44P1zz!”Glycerophospholipids (GP)”
+C106H197O35P1zz!”Glycerophospholipids (GP)”
+C96H175O44P1zz!”Glycerophospholipids (GP)”
+C101H179O40P1zz!”Glycerophospholipids (GP)”
+C128H238O18zz!”Fatty Acyls (FA)”
+C101H181O40P1zz!”Glycerophospholipids (GP)”
+C107H189O35P1zz!”Glycerophospholipids (GP)”
+C123H236O20S1zz!”Saccharolipids (SL)”
+C124H240O19S1zz!”Saccharolipids (SL)”
+C128H240O18zz!”Fatty Acyls (FA)”
+C97H167O44P1zz!”Glycerophospholipids (GP)”
+C101H183O40P1zz!”Glycerophospholipids (GP)”
+C107H191O35P1zz!”Glycerophospholipids (GP)”
+C97H169O44P1zz!”Glycerophospholipids (GP)”
+C101H185O40P1zz!”Glycerophospholipids (GP)”
+C107H193O35P1zz!”Glycerophospholipids (GP)”
+C97H171O44P1zz!”Glycerophospholipids (GP)”
+C107H195O35P1zz!”Glycerophospholipids (GP)”
+C131H242O16zz!”Saccharolipids (SL)”
+C97H173O44P1zz!”Glycerophospholipids (GP)”
+C107H197O35P1zz!”Glycerophospholipids (GP)”
+C97H175O44P1zz!”Glycerophospholipids (GP)”
+C107H199O35P1zz!”Glycerophospholipids (GP)”
+C130H242O17zz!”Saccharolipids (SL)”
+C97H177O44P1zz!”Glycerophospholipids (GP)”
+C102H181O40P1zz!”Glycerophospholipids (GP)”
+C102H183O40P1zz!”Glycerophospholipids (GP)”
+C108H191O35P1zz!”Glycerophospholipids (GP)”
+C124H238O20S1zz!”Saccharolipids (SL)”
+C129H242O18zz!”Fatty Acyls (FA)”
+C98H169O44P1zz!”Glycerophospholipids (GP)”
+C102H185O40P1zz!”Glycerophospholipids (GP)”
+C108H193O35P1zz!”Glycerophospholipids (GP)”
+C123H236O21S1zz!”Saccharolipids (SL)”
+C98H171O44P1zz!”Glycerophospholipids (GP)”
+C102H187O40P1zz!”Glycerophospholipids (GP)”
+C108H195O35P1zz!”Glycerophospholipids (GP)”
+C98H173O44P1zz!”Glycerophospholipids (GP)”
+C108H197O35P1zz!”Glycerophospholipids (GP)”
+C132H244O16zz!”Saccharolipids (SL)”
+C98H175O44P1zz!”Glycerophospholipids (GP)”
+C103H179O40P1zz!”Glycerophospholipids (GP)”
+C108H199O35P1zz!”Glycerophospholipids (GP)”
+C98H177O44P1zz!”Glycerophospholipids (GP)”
+C103H181O40P1zz!”Glycerophospholipids (GP)”
+C98H179O44P1zz!”Glycerophospholipids (GP)”
+C103H183O40P1zz!”Glycerophospholipids (GP)”
+C103H185O40P1zz!”Glycerophospholipids (GP)”
+C125H240O20S1zz!”Saccharolipids (SL)”
+C126H244O19S1zz!”Saccharolipids (SL)”
+C99H171O44P1zz!”Glycerophospholipids (GP)”
+C103H187O40P1zz!”Glycerophospholipids (GP)”
+C124H238O21S1zz!”Saccharolipids (SL)”
+C99H173O44P1zz!”Glycerophospholipids (GP)”
+C103H189O40P1zz!”Glycerophospholipids (GP)”
+C99H175O44P1zz!”Glycerophospholipids (GP)”
+C133H246O16zz!”Saccharolipids (SL)”
+C99H177O44P1zz!”Glycerophospholipids (GP)”
+C104H181O40P1zz!”Glycerophospholipids (GP)”
+C99H179O44P1zz!”Glycerophospholipids (GP)”
+C104H183O40P1zz!”Glycerophospholipids (GP)”
+C132H246O17zz!”Saccharolipids (SL)”
+C99H181O44P1zz!”Glycerophospholipids (GP)”
+C104H185O40P1zz!”Glycerophospholipids (GP)”
+C104H187O40P1zz!”Glycerophospholipids (GP)”
+C126H242O20S1zz!”Saccharolipids (SL)”
+C100H173O44P1zz!”Glycerophospholipids (GP)”
+C104H189O40P1zz!”Glycerophospholipids (GP)”
+C125H240O21S1zz!”Saccharolipids (SL)”
+C100H175O44P1zz!”Glycerophospholipids (GP)”
+C104H191O40P1zz!”Glycerophospholipids (GP)”
+C100H177O44P1zz!”Glycerophospholipids (GP)”
+C105H181O40P1zz!”Glycerophospholipids (GP)”
+C134H248O16zz!”Saccharolipids (SL)”
+C100H179O44P1zz!”Glycerophospholipids (GP)”
+C105H183O40P1zz!”Glycerophospholipids (GP)”
+C100H181O44P1zz!”Glycerophospholipids (GP)”
+C105H185O40P1zz!”Glycerophospholipids (GP)”
+C133H248O17zz!”Saccharolipids (SL)”
+C100H183O44P1zz!”Glycerophospholipids (GP)”
+C105H187O40P1zz!”Glycerophospholipids (GP)”
+C105H189O40P1zz!”Glycerophospholipids (GP)”
+C127H244O20S1zz!”Saccharolipids (SL)”
+C132H248O18zz!”Saccharolipids (SL)”
+C105H191O40P1zz!”Glycerophospholipids (GP)”
+C126H242O21S1zz!”Saccharolipids (SL)”
+C101H177O44P1zz!”Glycerophospholipids (GP)”
+C105H193O40P1zz!”Glycerophospholipids (GP)”
+C101H179O44P1zz!”Glycerophospholipids (GP)”
+C106H183O40P1zz!”Glycerophospholipids (GP)”
+C135H250O16zz!”Saccharolipids (SL)”
+C101H181O44P1zz!”Glycerophospholipids (GP)”
+C106H185O40P1zz!”Glycerophospholipids (GP)”
+C101H183O44P1zz!”Glycerophospholipids (GP)”
+C106H187O40P1zz!”Glycerophospholipids (GP)”
+C134H250O17zz!”Saccharolipids (SL)”
+C101H185O44P1zz!”Glycerophospholipids (GP)”
+C106H189O40P1zz!”Glycerophospholipids (GP)”
+C106H191O40P1zz!”Glycerophospholipids (GP)”
+C128H246O20S1zz!”Saccharolipids (SL)”
+C106H193O40P1zz!”Glycerophospholipids (GP)”
+C127H244O21S1zz!”Saccharolipids (SL)”
+C102H179O44P1zz!”Glycerophospholipids (GP)”
+C106H195O40P1zz!”Glycerophospholipids (GP)”
+C102H181O44P1zz!”Glycerophospholipids (GP)”
+C107H185O40P1zz!”Glycerophospholipids (GP)”
+C136H252O16zz!”Saccharolipids (SL)”
+C102H183O44P1zz!”Glycerophospholipids (GP)”
+C107H187O40P1zz!”Glycerophospholipids (GP)”
+C102H185O44P1zz!”Glycerophospholipids (GP)”
+C107H189O40P1zz!”Glycerophospholipids (GP)”
+C135H252O17zz!”Saccharolipids (SL)”
+C107H191O40P1zz!”Glycerophospholipids (GP)”
+C107H193O40P1zz!”Glycerophospholipids (GP)”
+C129H248O20S1zz!”Saccharolipids (SL)”
+C134H252O18zz!”Saccharolipids (SL)”
+C107H195O40P1zz!”Glycerophospholipids (GP)”
+C128H246O21S1zz!”Saccharolipids (SL)”
+C107H197O40P1zz!”Glycerophospholipids (GP)”
+C108H187O40P1zz!”Glycerophospholipids (GP)”
+C137H254O16zz!”Saccharolipids (SL)”
+C108H189O40P1zz!”Glycerophospholipids (GP)”
+C108H191O40P1zz!”Glycerophospholipids (GP)”
+C136H254O17zz!”Saccharolipids (SL)”
+C108H193O40P1zz!”Glycerophospholipids (GP)”
+C108H195O40P1zz!”Glycerophospholipids (GP)”
+C130H250O20S1zz!”Saccharolipids (SL)”
+C135H254O18zz!”Saccharolipids (SL)”
+C108H197O40P1zz!”Glycerophospholipids (GP)”
+C129H248O21S1zz!”Saccharolipids (SL)”
+C108H199O40P1zz!”Glycerophospholipids (GP)”
+C134H254O19zz!”Saccharolipids (SL)”
+C109H189O40P1zz!”Glycerophospholipids (GP)”
+C138H256O16zz!”Saccharolipids (SL)”
+C109H191O40P1zz!”Glycerophospholipids (GP)”
+C109H193O40P1zz!”Glycerophospholipids (GP)”
+C137H256O17zz!”Saccharolipids (SL)”
+C109H195O40P1zz!”Glycerophospholipids (GP)”
+C109H197O40P1zz!”Glycerophospholipids (GP)”
+C131H252O20S1zz!”Saccharolipids (SL)”
+C136H256O18zz!”Saccharolipids (SL)”
+C109H199O40P1zz!”Glycerophospholipids (GP)”
+C130H250O21S1zz!”Saccharolipids (SL)”
+C109H201O40P1zz!”Glycerophospholipids (GP)”
+C110H191O40P1zz!”Glycerophospholipids (GP)”
+C139H258O16zz!”Saccharolipids (SL)”
+C110H193O40P1zz!”Glycerophospholipids (GP)”
+C110H195O40P1zz!”Glycerophospholipids (GP)”
+C138H258O17zz!”Saccharolipids (SL)”
+C110H197O40P1zz!”Glycerophospholipids (GP)”
+C110H199O40P1zz!”Glycerophospholipids (GP)”
+C132H254O20S1zz!”Saccharolipids (SL)”
+C137H258O18zz!”Saccharolipids (SL)”
+C110H201O40P1zz!”Glycerophospholipids (GP)”
+C131H252O21S1zz!”Saccharolipids (SL)”
+C110H203O40P1zz!”Glycerophospholipids (GP)”
+C136H258O19zz!”Saccharolipids (SL)”
+C111H193O40P1zz!”Glycerophospholipids (GP)”
+C140H260O16zz!”Saccharolipids (SL)”
+C111H195O40P1zz!”Glycerophospholipids (GP)”
+C105H189O45P1zz!”Glycerophospholipids (GP)”
+C111H197O40P1zz!”Glycerophospholipids (GP)”
+C139H260O17zz!”Saccharolipids (SL)”
+C105H191O45P1zz!”Glycerophospholipids (GP)”
+C111H199O40P1zz!”Glycerophospholipids (GP)”
+C111H201O40P1zz!”Glycerophospholipids (GP)”
+C133H256O20S1zz!”Saccharolipids (SL)”
+C138H260O18zz!”Saccharolipids (SL)”
+C111H203O40P1zz!”Glycerophospholipids (GP)”
+C132H254O21S1zz!”Saccharolipids (SL)”
+C111H205O40P1zz!”Glycerophospholipids (GP)”
+C137H260O19zz!”Saccharolipids (SL)”
+C112H195O40P1zz!”Glycerophospholipids (GP)”
+C141H262O16zz!”Saccharolipids (SL)”
+C112H197O40P1zz!”Glycerophospholipids (GP)”
+C136H260O20zz!”Saccharolipids (SL)”
+C106H191O45P1zz!”Glycerophospholipids (GP)”
+C112H199O40P1zz!”Glycerophospholipids (GP)”
+C140H262O17zz!”Saccharolipids (SL)”
+C106H193O45P1zz!”Glycerophospholipids (GP)”
+C112H201O40P1zz!”Glycerophospholipids (GP)”
+C112H203O40P1zz!”Glycerophospholipids (GP)”
+C134H258O20S1zz!”Saccharolipids (SL)”
+C139H262O18zz!”Saccharolipids (SL)”
+C112H205O40P1zz!”Glycerophospholipids (GP)”
+C133H256O21S1zz!”Saccharolipids (SL)”
+C112H207O40P1zz!”Glycerophospholipids (GP)”
+C138H262O19zz!”Saccharolipids (SL)”
+C107H189O45P1zz!”Glycerophospholipids (GP)”
+C142H264O16zz!”Saccharolipids (SL)”
+C107H191O45P1zz!”Glycerophospholipids (GP)”
+C113H199O40P1zz!”Glycerophospholipids (GP)”
+C107H193O45P1zz!”Glycerophospholipids (GP)”
+C113H201O40P1zz!”Glycerophospholipids (GP)”
+C141H264O17zz!”Saccharolipids (SL)”
+C107H195O45P1zz!”Glycerophospholipids (GP)”
+C113H203O40P1zz!”Glycerophospholipids (GP)”
+C113H205O40P1zz!”Glycerophospholipids (GP)”
+C135H260O20S1zz!”Saccharolipids (SL)”
+C140H264O18zz!”Saccharolipids (SL)”
+C113H207O40P1zz!”Glycerophospholipids (GP)”
+C134H258O21S1zz!”Saccharolipids (SL)”
+C113H209O40P1zz!”Glycerophospholipids (GP)”
+C139H264O19zz!”Saccharolipids (SL)”
+C108H191O45P1zz!”Glycerophospholipids (GP)”
+C143H266O16zz!”Saccharolipids (SL)”
+C108H193O45P1zz!”Glycerophospholipids (GP)”
+C114H201O40P1zz!”Glycerophospholipids (GP)”
+C138H264O20zz!”Saccharolipids (SL)”
+C108H195O45P1zz!”Glycerophospholipids (GP)”
+C114H203O40P1zz!”Glycerophospholipids (GP)”
+C142H266O17zz!”Saccharolipids (SL)”
+C108H197O45P1zz!”Glycerophospholipids (GP)”
+C114H205O40P1zz!”Glycerophospholipids (GP)”
+C114H207O40P1zz!”Glycerophospholipids (GP)”
+C136H262O20S1zz!”Saccharolipids (SL)”
+C141H266O18zz!”Saccharolipids (SL)”
+C109H189O45P1zz!”Glycerophospholipids (GP)”
+C114H209O40P1zz!”Glycerophospholipids (GP)”
+C135H260O21S1zz!”Saccharolipids (SL)”
+C109H191O45P1zz!”Glycerophospholipids (GP)”
+C140H266O19zz!”Saccharolipids (SL)”
+C109H193O45P1zz!”Glycerophospholipids (GP)”
+C144H268O16zz!”Saccharolipids (SL)”
+C109H195O45P1zz!”Glycerophospholipids (GP)”
+C109H197O45P1zz!”Glycerophospholipids (GP)”
+C143H268O17zz!”Saccharolipids (SL)”
+C109H199O45P1zz!”Glycerophospholipids (GP)”
+C137H264O20S1zz!”Saccharolipids (SL)”
+C142H268O18zz!”Saccharolipids (SL)”
+C110H191O45P1zz!”Glycerophospholipids (GP)”
+C136H262O21S1zz!”Saccharolipids (SL)”
+C110H193O45P1zz!”Glycerophospholipids (GP)”
+C110H195O45P1zz!”Glycerophospholipids (GP)”
+C145H270O16zz!”Saccharolipids (SL)”
+C110H197O45P1zz!”Glycerophospholipids (GP)”
+C110H199O45P1zz!”Glycerophospholipids (GP)”
+C144H270O17zz!”Saccharolipids (SL)”
+C110H201O45P1zz!”Glycerophospholipids (GP)”
+C111H191O45P1zz!”Glycerophospholipids (GP)”
+C138H266O20S1zz!”Saccharolipids (SL)”
+C111H193O45P1zz!”Glycerophospholipids (GP)”
+C137H264O21S1zz!”Saccharolipids (SL)”
+C111H195O45P1zz!”Glycerophospholipids (GP)”
+C111H197O45P1zz!”Glycerophospholipids (GP)”
+C146H272O16zz!”Saccharolipids (SL)”
+C111H199O45P1zz!”Glycerophospholipids (GP)”
+C111H201O45P1zz!”Glycerophospholipids (GP)”
+C111H203O45P1zz!”Glycerophospholipids (GP)”
+C112H193O45P1zz!”Glycerophospholipids (GP)”
+C139H268O20S1zz!”Saccharolipids (SL)”
+C112H195O45P1zz!”Glycerophospholipids (GP)”
+C138H266O21S1zz!”Saccharolipids (SL)”
+C112H197O45P1zz!”Glycerophospholipids (GP)”
+C112H199O45P1zz!”Glycerophospholipids (GP)”
+C112H201O45P1zz!”Glycerophospholipids (GP)”
+C112H203O45P1zz!”Glycerophospholipids (GP)”
+C112H205O45P1zz!”Glycerophospholipids (GP)”
+C113H195O45P1zz!”Glycerophospholipids (GP)”
+C140H270O20S1zz!”Saccharolipids (SL)”
+C113H197O45P1zz!”Glycerophospholipids (GP)”
+C139H268O21S1zz!”Saccharolipids (SL)”
+C113H199O45P1zz!”Glycerophospholipids (GP)”
+C113H201O45P1zz!”Glycerophospholipids (GP)”
+C113H203O45P1zz!”Glycerophospholipids (GP)”
+C113H205O45P1zz!”Glycerophospholipids (GP)”
+C113H207O45P1zz!”Glycerophospholipids (GP)”
+C114H197O45P1zz!”Glycerophospholipids (GP)”
+C141H272O20S1zz!”Saccharolipids (SL)”
+C114H199O45P1zz!”Glycerophospholipids (GP)”
+C140H270O21S1zz!”Saccharolipids (SL)”
+C114H201O45P1zz!”Glycerophospholipids (GP)”
+C114H203O45P1zz!”Glycerophospholipids (GP)”
+C114H205O45P1zz!”Glycerophospholipids (GP)”
+C114H207O45P1zz!”Glycerophospholipids (GP)”
+C114H209O45P1zz!”Glycerophospholipids (GP)”
+C115H199O45P1zz!”Glycerophospholipids (GP)”
+C142H274O20S1zz!”Saccharolipids (SL)”
+C115H201O45P1zz!”Glycerophospholipids (GP)”
+C141H272O21S1zz!”Saccharolipids (SL)”
+C115H203O45P1zz!”Glycerophospholipids (GP)”
+C115H205O45P1zz!”Glycerophospholipids (GP)”
+C115H207O45P1zz!”Glycerophospholipids (GP)”
+C115H209O45P1zz!”Glycerophospholipids (GP)”
+C115H211O45P1zz!”Glycerophospholipids (GP)”
+C116H201O45P1zz!”Glycerophospholipids (GP)”
+C143H276O20S1zz!”Saccharolipids (SL)”
+C116H203O45P1zz!”Glycerophospholipids (GP)”
+C142H274O21S1zz!”Saccharolipids (SL)”
+C116H205O45P1zz!”Glycerophospholipids (GP)”
+C116H207O45P1zz!”Glycerophospholipids (GP)”
+C116H209O45P1zz!”Glycerophospholipids (GP)”
+C116H211O45P1zz!”Glycerophospholipids (GP)”
+C116H213O45P1zz!”Glycerophospholipids (GP)”
+C117H203O45P1zz!”Glycerophospholipids (GP)”
+C144H278O20S1zz!”Saccharolipids (SL)”
+C117H205O45P1zz!”Glycerophospholipids (GP)”
+C143H276O21S1zz!”Saccharolipids (SL)”
+C117H207O45P1zz!”Glycerophospholipids (GP)”
+C117H209O45P1zz!”Glycerophospholipids (GP)”
+C117H211O45P1zz!”Glycerophospholipids (GP)”
+C117H213O45P1zz!”Glycerophospholipids (GP)”
+C117H215O45P1zz!”Glycerophospholipids (GP)”
+C118H205O45P1zz!”Glycerophospholipids (GP)”
+C145H280O20S1zz!”Saccharolipids (SL)”
+C118H207O45P1zz!”Glycerophospholipids (GP)”
+C144H278O21S1zz!”Saccharolipids (SL)”
+C118H209O45P1zz!”Glycerophospholipids (GP)”
+C118H211O45P1zz!”Glycerophospholipids (GP)”
+C118H213O45P1zz!”Glycerophospholipids (GP)”
+C118H215O45P1zz!”Glycerophospholipids (GP)”
+C118H217O45P1zz!”Glycerophospholipids (GP)”
+C146H282O20S1zz!”Saccharolipids (SL)”
+C119H209O45P1zz!”Glycerophospholipids (GP)”
+C145H280O21S1zz!”Saccharolipids (SL)”
+C119H211O45P1zz!”Glycerophospholipids (GP)”
+C119H213O45P1zz!”Glycerophospholipids (GP)”
+C119H215O45P1zz!”Glycerophospholipids (GP)”
+C119H217O45P1zz!”Glycerophospholipids (GP)”
+C119H219O45P1zz!”Glycerophospholipids (GP)”
+C147H284O20S1zz!”Saccharolipids (SL)”
+C120H211O45P1zz!”Glycerophospholipids (GP)”
+C146H282O21S1zz!”Saccharolipids (SL)”
+C120H213O45P1zz!”Glycerophospholipids (GP)”
+C120H215O45P1zz!”Glycerophospholipids (GP)”
+C120H217O45P1zz!”Glycerophospholipids (GP)”
+C120H219O45P1zz!”Glycerophospholipids (GP)”
+C148H286O20S1zz!”Saccharolipids (SL)”
+C147H284O21S1zz!”Saccharolipids (SL)”
+C149H288O20S1zz!”Saccharolipids (SL)”
+C148H286O21S1zz!”Saccharolipids (SL)”
+C150H290O20S1zz!”Saccharolipids (SL)”
+C149H288O21S1zz!”Saccharolipids (SL)”
+C151H292O20S1zz!”Saccharolipids (SL)”
+C150H290O21S1zz!”Saccharolipids (SL)”
+C160H306O15zz!”Fatty Acyls (FA)”
+C160H308O15zz!”Fatty Acyls (FA)”
+C152H294O20S1zz!”Saccharolipids (SL)”
+C160H310O15zz!”Fatty Acyls (FA)”
+C151H292O21S1zz!”Saccharolipids (SL)”
+C161H308O15zz!”Fatty Acyls (FA)”
+C160H306O16zz!”Fatty Acyls (FA)”
+C161H310O15zz!”Fatty Acyls (FA)”
+C153H296O20S1zz!”Saccharolipids (SL)”
+C160H308O16zz!”Fatty Acyls (FA)”
+C161H312O15zz!”Fatty Acyls (FA)”
+C152H294O21S1zz!”Saccharolipids (SL)”
+C160H310O16zz!”Fatty Acyls (FA)”
+C162H310O15zz!”Fatty Acyls (FA)”
+C161H308O16zz!”Fatty Acyls (FA)”
+C162H312O15zz!”Fatty Acyls (FA)”
+C154H298O20S1zz!”Saccharolipids (SL)”
+C160H306O17zz!”Fatty Acyls (FA)”
+C161H310O16zz!”Fatty Acyls (FA)”
+C162H314O15zz!”Fatty Acyls (FA)”
+C153H296O21S1zz!”Saccharolipids (SL)”
+C160H308O17zz!”Fatty Acyls (FA)”
+C161H312O16zz!”Fatty Acyls (FA)”
+C160H310O17zz!”Fatty Acyls (FA)”
+C163H312O15zz!”Fatty Acyls (FA)”
+C162H310O16zz!”Fatty Acyls (FA)”
+C163H314O15zz!”Fatty Acyls (FA)”
+C155H300O20S1zz!”Saccharolipids (SL)”
+C161H308O17zz!”Fatty Acyls (FA)”
+C162H312O16zz!”Fatty Acyls (FA)”
+C163H316O15zz!”Fatty Acyls (FA)”
+C154H298O21S1zz!”Saccharolipids (SL)”
+C161H310O17zz!”Fatty Acyls (FA)”
+C162H314O16zz!”Fatty Acyls (FA)”
+C161H312O17zz!”Fatty Acyls (FA)”
+C164H314O15zz!”Fatty Acyls (FA)”
+C163H312O16zz!”Fatty Acyls (FA)”
+C164H316O15zz!”Fatty Acyls (FA)”
+C156H302O20S1zz!”Saccharolipids (SL)”
+C162H310O17zz!”Fatty Acyls (FA)”
+C163H314O16zz!”Fatty Acyls (FA)”
+C164H318O15zz!”Fatty Acyls (FA)”
+C155H300O21S1zz!”Saccharolipids (SL)”
+C162H312O17zz!”Fatty Acyls (FA)”
+C163H316O16zz!”Fatty Acyls (FA)”
+C162H314O17zz!”Fatty Acyls (FA)”
+C165H316O15zz!”Fatty Acyls (FA)”
+C164H314O16zz!”Fatty Acyls (FA)”
+C165H318O15zz!”Fatty Acyls (FA)”
+C157H304O20S1zz!”Saccharolipids (SL)”
+C163H312O17zz!”Fatty Acyls (FA)”
+C164H316O16zz!”Fatty Acyls (FA)”
+C165H320O15zz!”Fatty Acyls (FA)”
+C156H302O21S1zz!”Saccharolipids (SL)”
+C163H314O17zz!”Fatty Acyls (FA)”
+C164H318O16zz!”Fatty Acyls (FA)”
+C163H316O17zz!”Fatty Acyls (FA)”
+C166H318O15zz!”Fatty Acyls (FA)”
+C165H316O16zz!”Fatty Acyls (FA)”
+C166H320O15zz!”Fatty Acyls (FA)”
+C158H306O20S1zz!”Saccharolipids (SL)”
+C164H314O17zz!”Fatty Acyls (FA)”
+C165H318O16zz!”Fatty Acyls (FA)”
+C166H322O15zz!”Fatty Acyls (FA)”
+C157H304O21S1zz!”Saccharolipids (SL)”
+C164H316O17zz!”Fatty Acyls (FA)”
+C165H320O16zz!”Fatty Acyls (FA)”
+C164H318O17zz!”Fatty Acyls (FA)”
+C167H320O15zz!”Fatty Acyls (FA)”
+C166H318O16zz!”Fatty Acyls (FA)”
+C167H322O15zz!”Fatty Acyls (FA)”
+C159H308O20S1zz!”Saccharolipids (SL)”
+C165H316O17zz!”Fatty Acyls (FA)”
+C166H320O16zz!”Fatty Acyls (FA)”
+C167H324O15zz!”Fatty Acyls (FA)”
+C158H306O21S1zz!”Saccharolipids (SL)”
+C165H318O17zz!”Fatty Acyls (FA)”
+C166H322O16zz!”Fatty Acyls (FA)”
+C165H320O17zz!”Fatty Acyls (FA)”
+C168H322O15zz!”Fatty Acyls (FA)”
+C167H320O16zz!”Fatty Acyls (FA)”
+C168H324O15zz!”Fatty Acyls (FA)”
+C160H310O20S1zz!”Saccharolipids (SL)”
+C166H318O17zz!”Fatty Acyls (FA)”
+C167H322O16zz!”Fatty Acyls (FA)”
+C168H326O15zz!”Fatty Acyls (FA)”
+C159H308O21S1zz!”Saccharolipids (SL)”
+C166H320O17zz!”Fatty Acyls (FA)”
+C167H324O16zz!”Fatty Acyls (FA)”
+C166H322O17zz!”Fatty Acyls (FA)”
+C169H324O15zz!”Fatty Acyls (FA)”
+C168H322O16zz!”Fatty Acyls (FA)”
+C169H326O15zz!”Fatty Acyls (FA)”
+C161H312O20S1zz!”Saccharolipids (SL)”
+C167H320O17zz!”Fatty Acyls (FA)”
+C168H324O16zz!”Fatty Acyls (FA)”
+C169H328O15zz!”Fatty Acyls (FA)”
+C160H310O21S1zz!”Saccharolipids (SL)”
+C167H322O17zz!”Fatty Acyls (FA)”
+C168H326O16zz!”Fatty Acyls (FA)”
+C167H324O17zz!”Fatty Acyls (FA)”
+C170H326O15zz!”Fatty Acyls (FA)”
+C169H324O16zz!”Fatty Acyls (FA)”
+C170H328O15zz!”Fatty Acyls (FA)”
+C162H314O20S1zz!”Saccharolipids (SL)”
+C168H322O17zz!”Fatty Acyls (FA)”
+C169H326O16zz!”Fatty Acyls (FA)”
+C170H330O15zz!”Fatty Acyls (FA)”
+C161H312O21S1zz!”Saccharolipids (SL)”
+C168H324O17zz!”Fatty Acyls (FA)”
+C169H328O16zz!”Fatty Acyls (FA)”
+C168H326O17zz!”Fatty Acyls (FA)”
+C171H328O15zz!”Fatty Acyls (FA)”
+C170H326O16zz!”Fatty Acyls (FA)”
+C171H330O15zz!”Fatty Acyls (FA)”
+C163H316O20S1zz!”Saccharolipids (SL)”
+C169H324O17zz!”Fatty Acyls (FA)”
+C170H328O16zz!”Fatty Acyls (FA)”
+C171H332O15zz!”Fatty Acyls (FA)”
+C162H314O21S1zz!”Saccharolipids (SL)”
+C169H326O17zz!”Fatty Acyls (FA)”
+C170H330O16zz!”Fatty Acyls (FA)”
+C169H328O17zz!”Fatty Acyls (FA)”
+C172H330O15zz!”Fatty Acyls (FA)”
+C171H328O16zz!”Fatty Acyls (FA)”
+C172H332O15zz!”Fatty Acyls (FA)”
+C164H318O20S1zz!”Saccharolipids (SL)”
+C170H326O17zz!”Fatty Acyls (FA)”
+C171H330O16zz!”Fatty Acyls (FA)”
+C172H334O15zz!”Fatty Acyls (FA)”
+C163H316O21S1zz!”Saccharolipids (SL)”
+C170H328O17zz!”Fatty Acyls (FA)”
+C171H332O16zz!”Fatty Acyls (FA)”
+C170H330O17zz!”Fatty Acyls (FA)”
+C173H332O15zz!”Fatty Acyls (FA)”
+C172H330O16zz!”Fatty Acyls (FA)”
+C173H334O15zz!”Fatty Acyls (FA)”
+C165H320O20S1zz!”Saccharolipids (SL)”
+C171H328O17zz!”Fatty Acyls (FA)”
+C172H332O16zz!”Fatty Acyls (FA)”
+C173H336O15zz!”Fatty Acyls (FA)”
+C164H318O21S1zz!”Saccharolipids (SL)”
+C171H330O17zz!”Fatty Acyls (FA)”
+C172H334O16zz!”Fatty Acyls (FA)”
+C171H332O17zz!”Fatty Acyls (FA)”
+C174H334O15zz!”Fatty Acyls (FA)”
+C173H332O16zz!”Fatty Acyls (FA)”
+C174H336O15zz!”Fatty Acyls (FA)”
+C166H322O20S1zz!”Saccharolipids (SL)”
+C172H330O17zz!”Fatty Acyls (FA)”
+C173H334O16zz!”Fatty Acyls (FA)”
+C174H338O15zz!”Fatty Acyls (FA)”
+C165H320O21S1zz!”Saccharolipids (SL)”
+C172H332O17zz!”Fatty Acyls (FA)”
+C173H336O16zz!”Fatty Acyls (FA)”
+C172H334O17zz!”Fatty Acyls (FA)”
+C175H336O15zz!”Fatty Acyls (FA)”
+C174H334O16zz!”Fatty Acyls (FA)”
+C175H338O15zz!”Fatty Acyls (FA)”
+C167H324O20S1zz!”Saccharolipids (SL)”
+C173H332O17zz!”Fatty Acyls (FA)”
+C174H336O16zz!”Fatty Acyls (FA)”
+C175H340O15zz!”Fatty Acyls (FA)”
+C166H322O21S1zz!”Saccharolipids (SL)”
+C173H334O17zz!”Fatty Acyls (FA)”
+C174H338O16zz!”Fatty Acyls (FA)”
+C173H336O17zz!”Fatty Acyls (FA)”
+C176H338O15zz!”Fatty Acyls (FA)”
+C175H336O16zz!”Fatty Acyls (FA)”
+C176H340O15zz!”Fatty Acyls (FA)”
+C168H326O20S1zz!”Saccharolipids (SL)”
+C174H334O17zz!”Fatty Acyls (FA)”
+C175H338O16zz!”Fatty Acyls (FA)”
+C176H342O15zz!”Fatty Acyls (FA)”
+C167H324O21S1zz!”Saccharolipids (SL)”
+C174H336O17zz!”Fatty Acyls (FA)”
+C175H340O16zz!”Fatty Acyls (FA)”
+C174H338O17zz!”Fatty Acyls (FA)”
+C177H340O15zz!”Fatty Acyls (FA)”
+C176H338O16zz!”Fatty Acyls (FA)”
+C177H342O15zz!”Fatty Acyls (FA)”
+C169H328O20S1zz!”Saccharolipids (SL)”
+C175H336O17zz!”Fatty Acyls (FA)”
+C176H340O16zz!”Fatty Acyls (FA)”
+C177H344O15zz!”Fatty Acyls (FA)”
+C168H326O21S1zz!”Saccharolipids (SL)”
+C175H338O17zz!”Fatty Acyls (FA)”
+C176H342O16zz!”Fatty Acyls (FA)”
+C175H340O17zz!”Fatty Acyls (FA)”
+C178H342O15zz!”Fatty Acyls (FA)”
+C177H340O16zz!”Fatty Acyls (FA)”
+C178H344O15zz!”Fatty Acyls (FA)”
+C170H330O20S1zz!”Saccharolipids (SL)”
+C176H338O17zz!”Fatty Acyls (FA)”
+C177H342O16zz!”Fatty Acyls (FA)”
+C178H346O15zz!”Fatty Acyls (FA)”
+C169H328O21S1zz!”Saccharolipids (SL)”
+C176H340O17zz!”Fatty Acyls (FA)”
+C177H344O16zz!”Fatty Acyls (FA)”
+C176H342O17zz!”Fatty Acyls (FA)”
+C179H344O15zz!”Fatty Acyls (FA)”
+C178H342O16zz!”Fatty Acyls (FA)”
+C179H346O15zz!”Fatty Acyls (FA)”
+C171H332O20S1zz!”Saccharolipids (SL)”
+C177H340O17zz!”Fatty Acyls (FA)”
+C178H344O16zz!”Fatty Acyls (FA)”
+C179H348O15zz!”Fatty Acyls (FA)”
+C170H330O21S1zz!”Saccharolipids (SL)”
+C177H342O17zz!”Fatty Acyls (FA)”
+C178H346O16zz!”Fatty Acyls (FA)”
+C177H344O17zz!”Fatty Acyls (FA)”
+C180H346O15zz!”Fatty Acyls (FA)”
+C179H344O16zz!”Fatty Acyls (FA)”
+C180H348O15zz!”Fatty Acyls (FA)”
+C172H334O20S1zz!”Saccharolipids (SL)”
+C178H342O17zz!”Fatty Acyls (FA)”
+C179H346O16zz!”Fatty Acyls (FA)”
+C180H350O15zz!”Fatty Acyls (FA)”
+C171H332O21S1zz!”Saccharolipids (SL)”
+C178H344O17zz!”Fatty Acyls (FA)”
+C179H348O16zz!”Fatty Acyls (FA)”
+C178H346O17zz!”Fatty Acyls (FA)”
+C181H348O15zz!”Fatty Acyls (FA)”
+C180H346O16zz!”Fatty Acyls (FA)”
+C181H350O15zz!”Fatty Acyls (FA)”
+C179H344O17zz!”Fatty Acyls (FA)”
+C180H348O16zz!”Fatty Acyls (FA)”
+C181H352O15zz!”Fatty Acyls (FA)”
+C172H334O21S1zz!”Saccharolipids (SL)”
+C179H346O17zz!”Fatty Acyls (FA)”
+C180H350O16zz!”Fatty Acyls (FA)”
+C179H348O17zz!”Fatty Acyls (FA)”
+C182H350O15zz!”Fatty Acyls (FA)”
+C181H348O16zz!”Fatty Acyls (FA)”
+C182H352O15zz!”Fatty Acyls (FA)”
+C174H338O20S1zz!”Saccharolipids (SL)”
+C180H346O17zz!”Fatty Acyls (FA)”
+C181H350O16zz!”Fatty Acyls (FA)”
+C182H354O15zz!”Fatty Acyls (FA)”
+C180H348O17zz!”Fatty Acyls (FA)”
+C181H352O16zz!”Fatty Acyls (FA)”
+C180H350O17zz!”Fatty Acyls (FA)”
+C183H352O15zz!”Fatty Acyls (FA)”
+C182H350O16zz!”Fatty Acyls (FA)”
+C183H354O15zz!”Fatty Acyls (FA)”
+C181H348O17zz!”Fatty Acyls (FA)”
+C182H352O16zz!”Fatty Acyls (FA)”
+C183H356O15zz!”Fatty Acyls (FA)”
+C174H338O21S1zz!”Saccharolipids (SL)”
+C181H350O17zz!”Fatty Acyls (FA)”
+C182H354O16zz!”Fatty Acyls (FA)”
+C181H352O17zz!”Fatty Acyls (FA)”
+C184H354O15zz!”Fatty Acyls (FA)”
+C183H352O16zz!”Fatty Acyls (FA)”
+C184H356O15zz!”Fatty Acyls (FA)”
+C182H350O17zz!”Fatty Acyls (FA)”
+C183H354O16zz!”Fatty Acyls (FA)”
+C184H358O15zz!”Fatty Acyls (FA)”
+C182H352O17zz!”Fatty Acyls (FA)”
+C183H356O16zz!”Fatty Acyls (FA)”
+C182H354O17zz!”Fatty Acyls (FA)”
+C185H356O15zz!”Fatty Acyls (FA)”
+C184H354O16zz!”Fatty Acyls (FA)”
+C185H358O15zz!”Fatty Acyls (FA)”
+C183H352O17zz!”Fatty Acyls (FA)”
+C184H356O16zz!”Fatty Acyls (FA)”
+C185H360O15zz!”Fatty Acyls (FA)”
+C183H354O17zz!”Fatty Acyls (FA)”
+C184H358O16zz!”Fatty Acyls (FA)”
+C183H356O17zz!”Fatty Acyls (FA)”
+C186H358O15zz!”Fatty Acyls (FA)”
+C185H356O16zz!”Fatty Acyls (FA)”
+C186H360O15zz!”Fatty Acyls (FA)”
+C184H354O17zz!”Fatty Acyls (FA)”
+C185H358O16zz!”Fatty Acyls (FA)”
+C186H362O15zz!”Fatty Acyls (FA)”
+C184H356O17zz!”Fatty Acyls (FA)”
+C185H360O16zz!”Fatty Acyls (FA)”
+C184H358O17zz!”Fatty Acyls (FA)”
+C187H360O15zz!”Fatty Acyls (FA)”
+C186H358O16zz!”Fatty Acyls (FA)”
+C187H362O15zz!”Fatty Acyls (FA)”
+C185H356O17zz!”Fatty Acyls (FA)”
+C186H360O16zz!”Fatty Acyls (FA)”
+C187H364O15zz!”Fatty Acyls (FA)”
+C185H358O17zz!”Fatty Acyls (FA)”
+C186H362O16zz!”Fatty Acyls (FA)”
+C185H360O17zz!”Fatty Acyls (FA)”
+C188H362O15zz!”Fatty Acyls (FA)”
+C187H360O16zz!”Fatty Acyls (FA)”
+C188H364O15zz!”Fatty Acyls (FA)”
+C186H358O17zz!”Fatty Acyls (FA)”
+C187H362O16zz!”Fatty Acyls (FA)”
+C188H366O15zz!”Fatty Acyls (FA)”
+C186H360O17zz!”Fatty Acyls (FA)”
+C187H364O16zz!”Fatty Acyls (FA)”
+C186H362O17zz!”Fatty Acyls (FA)”
+C189H364O15zz!”Fatty Acyls (FA)”
+C188H362O16zz!”Fatty Acyls (FA)”
+C189H366O15zz!”Fatty Acyls (FA)”
+C187H360O17zz!”Fatty Acyls (FA)”
+C188H364O16zz!”Fatty Acyls (FA)”
+C189H368O15zz!”Fatty Acyls (FA)”
+C187H362O17zz!”Fatty Acyls (FA)”
+C188H366O16zz!”Fatty Acyls (FA)”
+C187H364O17zz!”Fatty Acyls (FA)”
+C190H366O15zz!”Fatty Acyls (FA)”
+C189H364O16zz!”Fatty Acyls (FA)”
+C190H368O15zz!”Fatty Acyls (FA)”
+C188H362O17zz!”Fatty Acyls (FA)”
+C189H366O16zz!”Fatty Acyls (FA)”
+C190H370O15zz!”Fatty Acyls (FA)”
+C188H364O17zz!”Fatty Acyls (FA)”
+C189H368O16zz!”Fatty Acyls (FA)”
+C188H366O17zz!”Fatty Acyls (FA)”
+C191H368O15zz!”Fatty Acyls (FA)”
+C190H366O16zz!”Fatty Acyls (FA)”
+C191H370O15zz!”Fatty Acyls (FA)”
+C189H364O17zz!”Fatty Acyls (FA)”
+C190H368O16zz!”Fatty Acyls (FA)”
+C191H372O15zz!”Fatty Acyls (FA)”
+C189H366O17zz!”Fatty Acyls (FA)”
+C190H370O16zz!”Fatty Acyls (FA)”
+C189H368O17zz!”Fatty Acyls (FA)”
+C192H370O15zz!”Fatty Acyls (FA)”
+C191H368O16zz!”Fatty Acyls (FA)”
+C192H372O15zz!”Fatty Acyls (FA)”
+C190H366O17zz!”Fatty Acyls (FA)”
+C191H370O16zz!”Fatty Acyls (FA)”
+C192H374O15zz!”Fatty Acyls (FA)”
+C190H368O17zz!”Fatty Acyls (FA)”
+C191H372O16zz!”Fatty Acyls (FA)”
+C190H370O17zz!”Fatty Acyls (FA)”
+C193H372O15zz!”Fatty Acyls (FA)”
+C192H370O16zz!”Fatty Acyls (FA)”
+C193H374O15zz!”Fatty Acyls (FA)”
+C191H368O17zz!”Fatty Acyls (FA)”
+C192H372O16zz!”Fatty Acyls (FA)”
+C193H376O15zz!”Fatty Acyls (FA)”
+C191H370O17zz!”Fatty Acyls (FA)”
+C192H374O16zz!”Fatty Acyls (FA)”
+C191H372O17zz!”Fatty Acyls (FA)”
+C194H374O15zz!”Fatty Acyls (FA)”
+C193H372O16zz!”Fatty Acyls (FA)”
+C194H376O15zz!”Fatty Acyls (FA)”
+C192H370O17zz!”Fatty Acyls (FA)”
+C193H374O16zz!”Fatty Acyls (FA)”
+C194H378O15zz!”Fatty Acyls (FA)”
+C192H372O17zz!”Fatty Acyls (FA)”
+C193H376O16zz!”Fatty Acyls (FA)”
+C192H374O17zz!”Fatty Acyls (FA)”
+C195H376O15zz!”Fatty Acyls (FA)”
+C194H374O16zz!”Fatty Acyls (FA)”
+C195H378O15zz!”Fatty Acyls (FA)”
+C193H372O17zz!”Fatty Acyls (FA)”
+C194H376O16zz!”Fatty Acyls (FA)”
+C195H380O15zz!”Fatty Acyls (FA)”
+C193H374O17zz!”Fatty Acyls (FA)”
+C194H378O16zz!”Fatty Acyls (FA)”
+C193H376O17zz!”Fatty Acyls (FA)”
+C196H378O15zz!”Fatty Acyls (FA)”
+C195H376O16zz!”Fatty Acyls (FA)”
+C196H380O15zz!”Fatty Acyls (FA)”
+C194H374O17zz!”Fatty Acyls (FA)”
+C195H378O16zz!”Fatty Acyls (FA)”
+C196H382O15zz!”Fatty Acyls (FA)”
+C194H376O17zz!”Fatty Acyls (FA)”
+C195H380O16zz!”Fatty Acyls (FA)”
+C194H378O17zz!”Fatty Acyls (FA)”
+C197H380O15zz!”Fatty Acyls (FA)”
+C196H378O16zz!”Fatty Acyls (FA)”
+C197H382O15zz!”Fatty Acyls (FA)”
+C195H376O17zz!”Fatty Acyls (FA)”
+C196H380O16zz!”Fatty Acyls (FA)”
+C197H384O15zz!”Fatty Acyls (FA)”
+C195H378O17zz!”Fatty Acyls (FA)”
+C196H382O16zz!”Fatty Acyls (FA)”
+C195H380O17zz!”Fatty Acyls (FA)”
+C198H382O15zz!”Fatty Acyls (FA)”
+C197H380O16zz!”Fatty Acyls (FA)”
+C198H384O15zz!”Fatty Acyls (FA)”
+C196H378O17zz!”Fatty Acyls (FA)”
+C197H382O16zz!”Fatty Acyls (FA)”
+C198H386O15zz!”Fatty Acyls (FA)”
+C196H380O17zz!”Fatty Acyls (FA)”
+C197H384O16zz!”Fatty Acyls (FA)”
+C196H382O17zz!”Fatty Acyls (FA)”
+C199H384O15zz!”Fatty Acyls (FA)”
+C198H382O16zz!”Fatty Acyls (FA)”
+C199H386O15zz!”Fatty Acyls (FA)”
+C197H380O17zz!”Fatty Acyls (FA)”
+C198H384O16zz!”Fatty Acyls (FA)”
+C199H388O15zz!”Fatty Acyls (FA)”
+C197H382O17zz!”Fatty Acyls (FA)”
+C198H386O16zz!”Fatty Acyls (FA)”
+C197H384O17zz!”Fatty Acyls (FA)”
+C200H386O15zz!”Fatty Acyls (FA)”
+C199H384O16zz!”Fatty Acyls (FA)”
+C200H388O15zz!”Fatty Acyls (FA)”
+C198H382O17zz!”Fatty Acyls (FA)”
+C199H386O16zz!”Fatty Acyls (FA)”
+C200H390O15zz!”Fatty Acyls (FA)”
+C198H384O17zz!”Fatty Acyls (FA)”
+C199H388O16zz!”Fatty Acyls (FA)”
+C198H386O17zz!”Fatty Acyls (FA)”
+C200H386O16zz!”Fatty Acyls (FA)”
+C199H384O17zz!”Fatty Acyls (FA)”
+C200H388O16zz!”Fatty Acyls (FA)”
+C199H386O17zz!”Fatty Acyls (FA)”
+C200H390O16zz!”Fatty Acyls (FA)”
+C199H388O17zz!”Fatty Acyls (FA)”
+C200H386O17zz!”Fatty Acyls (FA)”
+C200H388O17zz!”Fatty Acyls (FA)”
+C200H390O17zz!”Fatty Acyls (FA)”
